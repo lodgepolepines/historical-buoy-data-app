@@ -21,5 +21,5 @@ jobs:
           key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /${{ secrets.APPNAME }}
+            cd ${{ secrets.APPNAME }}
             git pull
