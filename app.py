@@ -19,6 +19,8 @@ chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-gpu')
 
+driver = Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
+
 # starting data
 data = pd.DataFrame({
     'id' : ['41043', '42060', '44017', '51101'],
@@ -90,7 +92,6 @@ def loadData():
 
             url = 'https://www.ndbc.noaa.gov/station_page.php?station={}'.format(user_input)
             # create Selenium Chrome browser
-            driver = Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
             driver.get(url)
             lat = driver.execute_script('return currentstnlat')
             lon = driver.execute_script('return currentstnlng')
