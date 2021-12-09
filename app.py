@@ -12,7 +12,7 @@ from selenium.webdriver.common.by import By
 import urllib.error
 
 st.set_page_config(page_title='Historic Buoy Data App v0.1')
-st.title('Historic Buoy Data App')
+st.title('Historic Buoy Data App v0.1')
 
 # starting data
 data = pd.DataFrame({
