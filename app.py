@@ -11,6 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import urllib.error
 
+st.set_page_config(page_title='Historic Buoy Data App')
 st.title('Historic Buoy Data App')
 
 # starting data
