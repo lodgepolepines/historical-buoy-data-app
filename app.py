@@ -9,7 +9,6 @@ from selenium import webdriver
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 import urllib.error
-from webdriver_manager.chrome import ChromeDriverManager
 
 st.set_page_config(page_title='Historic Buoy Data App v0.1')
 st.title('Historic Buoy Data App')
@@ -19,7 +18,7 @@ chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-gpu')
 
-driver = Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
+driver = Chrome(chrome_options=chrome_options)
 
 # starting data
 data = pd.DataFrame({
