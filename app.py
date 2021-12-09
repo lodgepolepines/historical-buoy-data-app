@@ -5,14 +5,19 @@ import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
 import pydeck as pdk
+from selenium import webdriver
 from selenium.webdriver import Chrome
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import urllib.error
+from webdriver_manager.chrome import ChromeDriverManager
 
 st.set_page_config(page_title='Historic Buoy Data App v0.1')
 st.title('Historic Buoy Data App')
+
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
 
 # starting data
 data = pd.DataFrame({
@@ -85,10 +90,7 @@ def loadData():
 
             url = 'https://www.ndbc.noaa.gov/station_page.php?station={}'.format(user_input)
             # create Selenium Chrome browser
-            options = Options()
-            options.headless = True
-            webdriver = Service("chromedriver.exe")
-            driver = Chrome(service = webdriver, options = options)
+            driver = Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
             driver.get(url)
             lat = driver.execute_script('return currentstnlat')
             lon = driver.execute_script('return currentstnlng')
