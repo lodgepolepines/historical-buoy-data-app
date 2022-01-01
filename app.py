@@ -10,7 +10,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 import urllib.error
 
-st.set_page_config(page_title='Historical Buoy Data App v0.1')
+st.set_page_config(page_title='Historical Buoy Data App v0.2')
 st.title('Historic Buoy Data App')
 
 chrome_options = webdriver.ChromeOptions()
