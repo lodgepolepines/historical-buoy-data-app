@@ -5,41 +5,21 @@ import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
 import pydeck as pdk
-from selenium import webdriver
-from selenium.webdriver import Chrome
-from selenium.webdriver.common.by import By
 import urllib.error
 
-st.set_page_config(page_title='Historical Buoy Data App v0.2')
+st.set_page_config(page_title='Historical Buoy Data App v0.2', layout="wide")
 st.title('Historical Buoy Data App')
 
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--disable-gpu')
-
-driver = Chrome(chrome_options=chrome_options)
-
 # starting data
-data = pd.DataFrame({
-    'id' : ['41043', '42060', '44017', '51101'],
-    'buoy' : ['Station 41043 - NE PUERTO RICO - 170 NM NNE of San Juan, PR', 
-            'Station 42060 - Caribbean Valley - 63 NM WSW of Montserrat',
-            'Station 44017 (LLNR 665) - MONTAUK POINT - 23 NM SSW of Montauk Point, NY',
-            'Station 51101 (LLNR 28006.3) - NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI'
-    ],
-    'lat' : [21.030, 16.433000, 40.693, 24.361],
-    'lon' : [-64.790, -63.331000, -72.049, 162.075]
-})
+data = pd.read_csv("buoys1.csv")
 
 year_list = []
 for i in range(2010, 2021):
     year_list.append(str(i))
 
 # create sidebars
-buoy = st.sidebar.selectbox("Select buoy", data['id'])
-user_input = st.sidebar.text_input("(Alternate) Enter Station ID:")
-date_range = st.sidebar.slider("Year range", 2010, 2020, (2019, 2020))
+buoy = st.selectbox("Select buoy", data['name'])
+date_range = st.sidebar.slider("Year range", 2010, 2020, (2018, 2020))
 month_range = st.sidebar.slider("Month range", 1, 12, (1, 12))
 wave_height = st.sidebar.slider("Swell height", 0, 30, (5, 10))
 dpd = st.sidebar.slider('Swell period', 0, 30, (8,20))
@@ -52,107 +32,53 @@ def degrees_to_cardinal(d):
 
 @st.cache(suppress_st_warning=True)
 def loadData():
-        if user_input:
-            df = pd.DataFrame()
-            missing_years = []
-            for year in year_list:
-                try:
-                    buoy_url = 'https://www.ndbc.noaa.gov/view_text_file.php?filename={}h{}.txt.gz&dir=data/historical/stdmet/'.format(user_input, year)
-                    df2 = pd.read_table(buoy_url, names=['year', 'month', 'day', 'wave_height'], na_values=[], keep_default_na=False, dtype=str)
-                    # drop header rows
-                    df2 = df2.iloc[3: , :]
-                    df = df.append(df2)
-                except:
-                    print('Missing data for year ' + year)
-                    missing_years.append(str(year))
-            df['dir'] = df['year'].str[49:52]
-            df['dpd'] = df['year'].str[37:42]
-            df['wave_height'] = df['year'].str[32:36]
-            df['day'] = df['year'].str[8:10]
-            df['month'] = df['year'].str[5:7]
-            df['year'] = df['year'].str[:4]
+        df = pd.DataFrame()
+        missing_years = []
+        buoy_id = data.loc[data['name'] == buoy, 'id'].iloc[0]
+        for year in year_list:
+            try:
+                buoy_url = 'https://www.ndbc.noaa.gov/view_text_file.php?filename={}h{}.txt.gz&dir=data/historical/stdmet/'.format(buoy_id, year)
+                df2 = pd.read_table(buoy_url, names=['year', 'month', 'day', 'wave_height'], na_values=[], keep_default_na=False, dtype=str)
+                # drop header rows
+                df2 = df2.iloc[3: , :]
+                df = df.append(df2)
+            except:
+                print('Missing data for year ' + year)
+                missing_years.append(str(year))
+        df['dir'] = df['year'].str[49:52]
+        df['dpd'] = df['year'].str[37:42]
+        df['wave_height'] = df['year'].str[32:36]
+        df['day'] = df['year'].str[8:10]
+        df['month'] = df['year'].str[5:7]
+        df['year'] = df['year'].str[:4]
 
-            df['wave_height'].replace('', np.nan, inplace=True)
-            df['date'] = df['year'] + '-' + df['month'] + '-' +  df['day']
+        df['wave_height'].replace('', np.nan, inplace=True)
+        df['date'] = df['year'] + '-' + df['month'] + '-' +  df['day']
 
-            # remove no direction rows
-            df = df[df['dir'] != '999']
+        # remove no direction rows
+        df = df[df['dir'] != '999']
 
-            # drop duplicates
-            df = df.drop_duplicates(subset=['date'])
-            df['year'] = pd.to_numeric(df['year'])
-            df['month'] = pd.to_numeric(df['month'])
-            df['date'] = to_datetime(df['date'])
-            df['dpd'] = pd.to_numeric(df['dpd'])
-            df['wave_height'] = pd.to_numeric(df['wave_height'])
-            df['wave_height'] = df['wave_height'] * 3.281
-            df['dir'] = pd.to_numeric(df['dir'])
-            df = df.sort_values(by=['date'])
+        # drop duplicates
+        df = df.drop_duplicates(subset=['date'])
+        df['year'] = pd.to_numeric(df['year'])
+        df['month'] = pd.to_numeric(df['month'])
+        df['date'] = to_datetime(df['date'])
+        df['dpd'] = pd.to_numeric(df['dpd'])
+        df['wave_height'] = pd.to_numeric(df['wave_height'])
+        df['wave_height'] = df['wave_height'] * 3.281
+        df['dir'] = pd.to_numeric(df['dir'])
+        df = df.sort_values(by=['date'])
 
-            url = 'https://www.ndbc.noaa.gov/station_page.php?station={}'.format(user_input)
-            # create Selenium Chrome browser
-            driver.get(url)
-            lat = driver.execute_script('return currentstnlat')
-            lon = driver.execute_script('return currentstnlng')
-            midpoint = (np.average(lat), np.average(lon))
-            buoy_elem = driver.find_element(By.XPATH, '/html/body/div[2]/table/tbody/tr/td[2]/h1')
-            buoy_text = buoy_elem.text
-            coords = {'id': [user_input], 'buoy': [buoy], 'lat': [lat], 'lon': [lon]}   
-            buoy_point = pd.DataFrame(coords)
-            df['lat'] = lat
-            df['lon'] = lon
-            df['buoy'] = buoy_text
-            df['id'] = user_input
-            buoy_name = df['buoy'].iloc[0]
-            df['cardinal'] = df.apply(lambda x: degrees_to_cardinal(x['dir']), axis = 1)
-            return df, midpoint, buoy_point, buoy_name, missing_years
-        else:    
-            df = pd.DataFrame()
-            missing_years = []
-            for year in year_list:
-                try:
-                    buoy_url = 'https://www.ndbc.noaa.gov/view_text_file.php?filename={}h{}.txt.gz&dir=data/historical/stdmet/'.format(buoy, year)
-                    df2 = pd.read_table(buoy_url, names=['year', 'month', 'day', 'wave_height'], na_values=[], keep_default_na=False, dtype=str)
-                    # drop header rows
-                    df2 = df2.iloc[3: , :]
-                    df = df.append(df2)
-                except:
-                    print('Missing data for year ' + year)
-                    missing_years.append(str(year))
-            df['dir'] = df['year'].str[49:52]
-            df['dpd'] = df['year'].str[37:42]
-            df['wave_height'] = df['year'].str[32:36]
-            df['day'] = df['year'].str[8:10]
-            df['month'] = df['year'].str[5:7]
-            df['year'] = df['year'].str[:4]
+        lat = data.loc[data['name'] == buoy, 'lat'].iloc[0]
+        lon = data.loc[data['name'] == buoy, 'lon'].iloc[0]
 
-            df['wave_height'].replace('', np.nan, inplace=True)
-            df['date'] = df['year'] + '-' + df['month'] + '-' +  df['day']
-
-            # remove no direction rows
-            df = df[df['dir'] != '999']
-
-            # drop duplicates
-            df = df.drop_duplicates(subset=['date'])
-            df['year'] = pd.to_numeric(df['year'])
-            df['month'] = pd.to_numeric(df['month'])
-            df['date'] = to_datetime(df['date'])
-            df['dpd'] = pd.to_numeric(df['dpd'])
-            df['wave_height'] = pd.to_numeric(df['wave_height'])
-            df['wave_height'] = df['wave_height'] * 3.281
-            df['dir'] = pd.to_numeric(df['dir'])
-            df = df.sort_values(by=['date'])
-
-            lat = data.loc[data['id'] == buoy, 'lat'].iloc[0]
-            lon = data.loc[data['id'] == buoy, 'lon'].iloc[0]
-
-            # Adding code so we can have map default to the center of the data
-            midpoint = (np.average(lat), np.average(lon))
-            buoy_point = data.loc[data['id'] == buoy]
-            buoy_name = data.loc[data['id'] == buoy, 'buoy'].iloc[0]
-            df['buoy'] = buoy_name
-            df['cardinal'] = df.apply(lambda x: degrees_to_cardinal(x['dir']), axis = 1)
-            return df, midpoint, buoy_point, buoy_name, missing_years
+        # Adding code so we can have map default to the center of the data
+        midpoint = (np.average(lat), np.average(lon))
+        buoy_point = data.loc[data['name'] == buoy]
+        buoy_name = data.loc[data['name'] == buoy, 'name'].iloc[0]
+        df['buoy'] = buoy_name
+        df['cardinal'] = df.apply(lambda x: degrees_to_cardinal(x['dir']), axis = 1)
+        return df, midpoint, buoy_point, buoy_name, missing_years
 
 try:
     df, midpoint, buoy_point, buoy_name, missing_years = loadData()
@@ -234,6 +160,5 @@ try:
     fig= go.Figure(data=line_chart, layout=layout)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig)
-except urllib.error.HTTPError as exception:
-    print(exception)
-    st.header('No historic data found.')
+except:
+    st.header('No historical data found.')
