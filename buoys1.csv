@@ -1,0 +1,1710 @@
+,id,name,lat,lon
+42,41043,"Station 41043 - NE PUERTO RICO - 170 NM NNE of San Juan, PR",21.03,-64.79
+0,21413,"Station 21413 - SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",30.517,152.127
+1,21414,"Station 21414 (LLNR 984.8) - AMCHITKA - 170 NM South of Amchitka, AK",48.963,178.237
+2,21415,"Station 21415 (LLNR 984.85) - ATTU - 175 NM South of Attu, AK",50.153,171.897
+3,21416,"Station 21416 - KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU",48.11,163.435
+4,21417,Station 21417 - 290NM SE of the Kuril Islands,43.192,157.142
+5,21418,"Station 21418 - NORTHEAST TOKYO - 450 NM NE of Tokyo, JP",38.76,148.65
+6,21419,Station 21419 - KURIL ISLANDS - 209NM SE of Kuril Is.,44.401,155.653
+7,21420,Station 21420 - SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki,28.891,135.022
+8,32301,Station 32301,-9.9,-105.2
+9,32302,Station 32302,-18,-85.1
+10,32411,"Station 32411 - WEST PANAMA - 710 NM WSW of Panama City, Panama",4.958,-90.868
+11,32412,"Station 32412 - SOUTHWEST LIMA - 645 NM SW of Lima, Peru",-17.984,-86.374
+12,32413,"Station 32413 - NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",-7.428,-93.48
+13,32745,Station 32745 - TAO Buoy Adrift,0,0
+14,32746,Station 32746 - TAO Buoy Adrift,-5,-110
+15,32D12,"Station 32D12 - SOUTHWEST LIMA 645NM SW of Lima, Peru",-17.98,-86.33
+16,32D13,Station 32D13 - ADRIFT BUOY FROM 32413,-7.43,-93.48
+17,41001,Station 41001 (LLNR 635) - EAST HATTERAS - 150 NM East of Cape Hatteras,34.751,-72.196
+18,41002,Station 41002 (LLNR 830) - SOUTH HATTERAS - 225 NM South of Cape Hatteras,31.76,-74.945
+19,41003,Station 41003,30.4,-80.1
+20,41004,"Station 41004 (LLNR 825) - EDISTO - 41 NM Southeast of Charleston, SC",32.502,-79.099
+21,41005,Station 41005,31.7,-79.7
+22,41006,Station 41006,29.3,-77.4
+23,41007,Station 41007,34.2,-76.5
+24,41008,"Station 41008 (LLNR 833) - GRAYS REEF - 40 NM Southeast of Savannah, GA",31.4,-80.866
+25,41009,"Station 41009 (LLNR 840) - CANAVERAL 20 NM East of Cape Canaveral, FL",28.508,-80.185
+26,41010,Station 41010 (LLNR 845) - CANAVERAL EAST - 120NM East of Cape Canaveral,28.878,-78.485
+27,41011,Station 41011,28.2,-80.1
+28,41012,"Station 41012 (LLNR 845.3) - St. Augustine, FL 40NM ENE of St Augustine, FL",30.042,-80.534
+29,41013,"Station 41013 (LLNR 815) - Frying Pan Shoals, NC",33.441,-77.764
+30,41015,Station 41015,35.4,-75.3
+31,41016,Station 41016,24.6,-76.5
+32,41017,Station 41017,35.4,-75.1
+33,41018,Station 41018,15,-75
+34,41021,Station 41021 - Olympic Northeast,31.92,-80.85
+35,41022,Station 41022 - Olympic Southwest,31.89,-80.86
+36,41023,Station 41023 - Olympic Southwest,31.92,-80.93
+37,41025,"Station 41025 (LLNR 637) - Diamond Shoals, NC",35.01,-75.454
+38,41035,"Station 41035 (LLNR 735) - Onslow Bay Inner, NC",34.476,-77.28
+39,41036,"Station 41036 - Onslow Bay Outer, NC",34.207,-76.949
+40,41040,Station 41040 - NORTH EQUATORIAL ONE- 470 NM East of Martinique,14.542,-53.341
+41,41041,Station 41041 - NORTH EQUATORIAL TWO - 890 NM East of Martinique,14.453,-46.327
+43,41044,Station 41044 - NE ST MARTIN - 330 NM NE St Martin Is,21.582,-58.63
+44,41046,"Station 41046 - EAST BAHAMAS - 335 NM East of San Salvador Is, Bahamas",23.822,-68.384
+45,41047,"Station 41047 - NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",27.463,-71.466
+46,41048,Station 41048 - WEST BERMUDA - 240 NM West of Bermuda,31.831,-69.573
+47,41049,Station 41049 - SOUTH BERMUDA - 300 NM SSE of Bermuda,27.49,-62.938
+48,41420,"Station 41420 - NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO",26.2672,-77.0516
+49,41421,"Station 41421 - NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",23.373,-63.902
+50,41424,"Station 41424 - EAST CHARLESTON - 370 NM East of Charleston, SC",33,-72.66
+51,41425,"Station 41425 - SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda",23.2978,-72.4959
+52,41A46,"Station 41A46 - EAST BAHAMAS - 335 NM East of San Salvador Is, Bahamas backup",23.838,-68.333
+53,41B41,Station 41B41 - NORTH EQUATORIAL TWO - 890 NM East of Martinique,14.329,-46.082
+54,41D20,Station 41D20 - Adrift from 41420,23.508,-67.287
+55,41S43,"Station 41S43 - 170 NM NNE of San Juan, PR (SCP12)",21.132,-64.856
+56,41S46,"Station 41S46 - 335 NM East of San Salvador Is, Bahamas (SCP10)",23.866,-68.481
+57,41X01,"Station 41X01 - Adrift from 41001, 150nm E of Cape Hatteras",34.502,-72.522
+58,42001,"Station 42001 (LLNR 1465) - MID GULF - 180 nm South of Southwest Pass, LA",25.942,-89.657
+59,42002,"Station 42002 (LLNR 1470) - WEST GULF - 207 NM East of Brownsville, TX",26.055,-93.646
+60,42003,"Station 42003 (LLNR 1460) - East GULF - 208 NM West of Naples, FL",25.925,-85.615
+61,42004,Station 42004,27.5,-85.5
+62,42005,Station 42005,30,-85.9
+63,42006,Station 42006,26.5,-96
+64,42007,"Station 42007 (LLNR 345) - BILOXI - 22 NM SSE of Biloxi, MS",30.09,-88.769
+65,42008,Station 42008,28.7,-95.3
+66,42009,Station 42009,29.3,-87.5
+67,42010,Station 42010,29.7,-93.4
+68,42011,Station 42011,29.7,-93.5
+69,42012,"Station 42012 (LLNR 138) - ORANGE BEACH - 44 NM SE of Mobile, AL",30.06,-87.548
+70,42015,Station 42015,30.1,-88.2
+71,42016,Station 42016,30.2,-88.1
+72,42017,Station 42017,27.9,-90.9
+73,42018,Station 42018,30,-88.2
+74,42019,"Station 42019 (LLNR 1285) - FREEPORT, TX - 60 NM South of Freeport, TX",27.91,-95.345
+75,42020,"Station 42020 (LLNR 1405) - CORPUS CHRISTI, TX - 60NM SSE of Corpus Christi, TX",26.968,-96.693
+76,42025,Station 42025,24.9,-80.4
+77,42035,"Station 42035 (LLNR 1200) - GALVESTON,TX - 22 NM East of Galveston, TX",29.232,-94.413
+78,42036,"Station 42036 (LLNR 855) - WEST TAMPA - 112 NM WNW of Tampa, FL",28.501,-84.508
+79,42037,Station 42037,24.5,-81.4
+80,42038,Station 42038 (LLNR 940) - North Mid Gulf of Mexico,27.421,-92.555
+81,42039,"Station 42039 (LLNR 115) - PENSACOLA - 115NM SSE of Pensacola, FL",28.787,-86.007
+82,42040,"Station 42040 (LLNR 245) - LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL",29.207,-88.237
+83,42041,"Station 42041 - North Mid Gulf 110NM South of Grand Isle, LA",27.504,-90.462
+84,42042,Station 42042 - Pascagoula,29.88,-88.32
+85,42053,Station 42053 - Pascagoula South,29.55,-88.5
+86,42054,Station 42054 - East Gulf,26,-87.73
+87,42055,"Station 42055 (LLNR 1122) - BAY OF CAMPECHE - 214 NM NE of Veracruz, MX",22.124,-93.941
+88,42056,"Station 42056 (LLNR 80) - Yucatan Basin - 120 NM ESE of Cozumel, MX",19.82,-84.945
+89,42057,"Station 42057 - Western Caribbean - 195 NM WSW of Negril, Jamaica",16.908,-81.422
+90,42058,"Station 42058 - Central Caribbean - 210 NM SSE of Kingston, Jamaica",15.9482,-79.8271
+91,42059,"Station 42059 - Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",15.287,-67.477
+92,42060,Station 42060 - Caribbean Valley - 63 NM WSW of Montserrat,16.433,-63.331
+93,42065,Station 42065 - Near 42058 Central Caribbean,14.926,-75.046
+94,42080,"Station 42080 (LLNR 1063) - Offshore Sand Key, FL",24.396,-81.934
+95,42407,"Station 42407 - SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR",18.4676,-69.8782
+96,42408,"Station 42408 - EAST GULF of MEXICO - 225NM WNW of Loggerhead Key, FL",25.2,-87
+97,42409,"Station 42409 (LLNR 1468) - GULF OF MEXICO - 247 NM South of New Orleans, LA",25.9,-89.287
+98,42429,Station 42429 - DART WAVE GLIDER STATION,27.401,-85.671
+99,42534,Station 42534 - Moored Drifter,0,0
+100,43412,"Station 43412 - SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",16.001,-106.987
+101,43413,"Station 43413 - SOUTH ACAPULCO - 360NM South of Acapulco, MX",10.949,-100.03
+102,44001,Station 44001,38.7,-73.6
+103,44003,Station 44003,40.8,-68.5
+104,44004,"Station 44004 (LLNR 5) - HOTEL 200NM East of Cape May,NJ",38.484,-70.433
+105,44005,"Station 44005 (LLNR 820) - GULF OF MAINE - 78 NM East of Portsmouth, NH",43.201,-69.127
+106,44006,Station 44006,36.3,-75.4
+107,44007,"Station 44007 (LLNR 75) - PORTLAND - 12 NM Southeast of Portland,ME",43.525,-70.14
+108,44008,Station 44008 (LLNR 827) - NANTUCKET 54 NM Southeast of Nantucket,40.498,-69.251
+109,44009,"Station 44009 (LLNR 168) - DELAWARE BAY 26 NM Southeast of Cape May, NJ",38.451,-74.684
+110,44010,Station 44010,36.9,-75.7
+111,44011,"Station 44011 (LLNR 825) - GEORGES BANK 170 NM East of Hyannis, MA",41.093,-66.562
+112,44012,Station 44012,38.8,-74.6
+113,44013,"Station 44013 (LLNR 420) - BOSTON 16 NM East of Boston, MA",42.346,-70.651
+114,44014,"Station 44014 (LLNR 550) - VIRGINIA BEACH 64 NM East of Virginia Beach, VA",36.609,-74.842
+115,44015,Station 44015,37.5,-73.4
+116,44017,"Station 44017 (LLNR 665) - MONTAUK POINT - 23 NM SSW of Montauk Point, NY",40.693,-72.049
+117,44018,"Station 44018 (LLNR 560) - CAPE COD - 9 NM North of Provincetown, MA",42.206,-70.143
+118,44019,Station 44019,36.4,-75.2
+119,44020,Station 44020 (LLNR 13700) - NANTUCKET SOUND,41.493,-70.279
+120,44023,Station 44023,37.5,-74.4
+121,44025,"Station 44025 (LLNR 830) - LONG ISLAND - 30 NM South of Islip, NY",40.251,-73.164
+122,44026,Station 44026,36,-73.5
+123,44027,"Station 44027 (LLNR 4) - Jonesport, ME - 20 NM SE of Jonesport, ME",44.283,-67.3
+124,44028,Station 44028 - Buzzard's Bay,41.4,-71.08
+125,44065,"Station 44065 (LLNR 725) - New York Harbor Entrance - 15 NM SE of Breezy Point , NY",40.369,-73.703
+126,44066,"Station 44066 (LLNR 3) - Texas Tower #4 - 75 NM East of Long Beach, NJ",39.618,-72.644
+127,44070,Station 44070 (LLNR 835) - Buzzards Bay MA. Offshore,41.392,-71.004
+128,44071,Station 44071 - Chesapeake Light Va.,36.906,-75.691
+129,44401,"Station 44401 - NORTHEAST CASTLE ROCK SEAMOUNT - 620NM South of St John's Newfoundland, CN",37.592,-50.03
+130,44402,"Station 44402 (LLNR 5) - SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY",39.289,-70.639
+131,44403,"Station 44403 - SABLE ISLAND BANK - 437 NM E of Boston, MA",41.904,-61.655
+132,44585,Station 44585 - Drifting Buoy,0,0
+133,45001,"Station 45001 (LLNR 16880) - MID SUPERIOR- 60 NM North Northeast Hancock, MI",48.061,-87.793
+134,45002,Station 45002 (LLNR 18310) - NORTH MICHIGAN- Halfway between North Manitou and Washington Islands.,45.344,-86.411
+135,45003,"Station 45003 (LLNR 11510) - NORTH HURON - 32NM Northeast of Alpena, MI",45.351,-82.84
+136,45004,"Station 45004 (LLNR 16850) - EAST SUPERIOR -70 NM NE Marquette, MI",47.585,-86.585
+137,45005,"Station 45005 (LLNR 5555) - WEST ERIE - 16 NM NW of Lorain, OH",41.677,-82.398
+138,45006,"Station 45006 (LLNR 16540) - WEST SUPERIOR - 30NM NE of Outer Island, WI",47.335,-89.793
+139,45007,"Station 45007 (LLNR 20595) - SOUTH MICHIGAN - 43NM East Southeast of Milwaukee, WI",42.674,-87.026
+140,45008,"Station 45008 (LLNR 10010) - SOUTH HURON - 43NM East of Oscoda, MI",44.283,-82.416
+141,45009,Station 45009,41.6,-82
+142,45010,Station 45010,43,-87.8
+143,45011,Station 45011 - Grand Haven Michigan,43.02,-86.27
+144,45012,"Station 45012 (LLNR 2655) - EAST Lake Ontario - 20NM North Northeast of Rochester, NY",43.621,-77.401
+145,46001,"Station 46001 (LLNR 984) - WESTERN GULF OF ALASKA - 175NM SE of Kodiak, AK",54.1057,-140.8549
+146,46002,"Station 46002 (LLNR 765.1) - WEST OREGON - 275NM West of Coos Bay, OR",42.658,-130.502
+147,46003,Station 46003 - S ALEUTIANS,51.831,-155.85
+148,46005,"Station 46005 (LLNR 765.5) - WEST WASHINGTON - 300NM West of Aberdeen, WA",46.134,-131.079
+149,46006,"Station 46006 (LLNR 510) - SOUTHEAST PAPA - 600NM West of Eureka, CA",40.766,-137.379
+150,46007,Station 46007,59.2,-152.7
+151,46008,Station 46008,57.1,-151.7
+152,46009,Station 46009,60.2,-146.8
+153,46010,Station 46010,46.2,-124.2
+154,46011,"Station 46011 (LLNR 215) - SANTA MARIA - 21NM NW of Point Arguello, CA",34.956,-121.019
+155,46012,"Station 46012 (LLNR 325) - HALF MOON BAY - 24NM SSW of San Francisco, CA",37.356,-122.881
+156,46013,"Station 46013 (LLNR 390) - BODEGA BAY - 48NM NW of San Francisco, CA",38.253,-123.303
+157,46014,"Station 46014 (LLNR 445) - PT ARENA - 19NM North of Point Arena, CA",39.231,-123.974
+158,46015,"Station 46015 (LLNR 590) - PORT ORFORD - 15 NM West of Port Orford, OR",42.752,-124.844
+159,46016,Station 46016,63.283,-170.3
+160,46017,Station 46017,60.283,-172.3
+161,46018,Station 46018,60.283,-177
+162,46019,Station 46019,57.2,-170.3
+163,46020,Station 46020,55.883,-168
+164,46021,Station 46021,57.7,-160
+165,46022,"Station 46022 (LLNR 500) - EEL RIVER - 17NM WSW of Eureka, CA",40.748,-124.527
+166,46023,"Station 46023 (LLNR 213) - PT ARGUELLO - 17NM WNW of Point Arguello, CA",34.714,-120.967
+167,46024,Station 46024,33,-119.2
+168,46025,"Station 46025 (LLNR 181) - Santa Monica Basin - 33NM WSW of Santa Monica, CA",33.758,-119.044
+169,46026,"Station 46026 (LLNR 357) - SAN FRANCISCO - 18NM West of San Francisco, CA",37.754,-122.839
+170,46027,"Station 46027 (LLNR 562) - ST GEORGES - 8 NM NW of Crescent City, CA",41.852,-124.38
+171,46028,"Station 46028 (LLNR 275) - CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",35.77,-121.903
+172,46029,Station 46029 (LLNR 688) - COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,46.163,-124.487
+173,46030,Station 46030 - BLUNTS REEF,40.423,-124.525
+174,46031,Station 46031,55.5,-161.683
+175,46032,Station 46032,54.2,-165.8
+176,46033,Station 46033,55.783,-159.8
+177,46034,Station 46034,55.1,-163.1
+178,46035,"Station 46035 (LLNR 1198) - CENTRAL BERING SEA - 310 NM North of Adak, AK",57.016,-177.703
+179,46037,Station 46037,48.3,-133.8
+180,46038,Station 46038,41.9,-124.4
+181,46039,Station 46039,48.2,-123.4
+182,46040,Station 46040,44.8,-124.3
+183,46041,"Station 46041 (LLNR 733) - CAPE ELIZABETH - 45NM NW of Aberdeen, WA",47.353,-124.742
+184,46042,"Station 46042 (LLNR 297) - MONTEREY - 27NM WNW of Monterey, CA",36.785,-122.398
+185,46043,Station 46043,46.9,-124.2
+186,46045,Station 46045 - REDONDO BEACH,33.84,-118.45
+187,46047,"Station 46047 (LLNR 82) - TANNER BANK - 121 NM West of San Diego, CA",32.388,-119.525
+188,46048,Station 46048,32.9,-117.9
+189,46050,"Station 46050 (LLNR 641) - STONEWALL BANK - 20NM West of Newport, OR",44.669,-124.546
+190,46051,Station 46051 - Harvest Experiment Platform,34.48,-120.69
+191,46053,"Station 46053 (LLNR 196) - EAST SANTA BARBARA - 12NM Southwest of Santa Barbara, CA",34.241,-119.839
+192,46054,"Station 46054 (LLNR 198.1) - WEST SANTA BARBARA 38 NM West of Santa Barbara, CA",34.273,-120.47
+193,46059,"Station 46059 (LLNR 382) - WEST CALIFORNIA - 357NM West of San Francisco, CA",38.058,-129.993
+194,46060,"Station 46060 (LLNR 25646) - WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK",60.587,-146.819
+195,46061,"Station 46061 (LLNR 1131) - Seal Rocks - Between Montague and Hinchinbrook Islands, AK",60.238,-146.833
+196,46062,"Station 46062 (LLNR 3810) - Pt. San Luis, CA - 18 NM South Southwest of Morro Bay, CA",35.101,-121.01
+197,46063,"Station 46063 (LLNR 236) - Pt.Conception, CA - 50NM West of Santa Barbara, CA",34.273,-120.699
+198,46066,"Station 46066 (LLNR 984.1) - SOUTH KODIAK - 310NM SSW of Kodiak, AK",52.765,-155.009
+199,46069,Station 46069 (LLNR 181.6) - SOUTH SANTA ROSA IS. CA,33.677,-120.213
+200,46070,"Station 46070 (LLNR 1198.1) - SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",55.008,175.183
+201,46071,"Station 46071 (LLNR 27545) - WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",51.125,179.012
+202,46072,Station 46072 (LLNR 27510) - CENTRAL ALEUTIANS 230 NM SW Dutch Harbor,51.672,-172.088
+203,46073,"Station 46073 (LLNR 1199) - SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK",55.009,-172.002
+204,46075,"Station 46075 (LLNR 1197) - SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",53.969,-160.794
+205,46076,"Station 46076 (LLNR 25982) - CAPE CLEARE - 17 NM South of Montague Is, AK",59.471,-148.009
+206,46077,"Station 46077 (LLNR 26950) - SHELIKOF STRAIT, AK",57.902,-154.176
+207,46078,"Station 46078 (LLNR 1187) - ALBATROSS BANK - 104NM South of Kodiak Is., AK",55.556,-152.582
+208,46079,Station 46079 - Barren Island,59.05,-152.23
+209,46080,"Station 46080 (LLNR 982) - PORTLOCK BANK- 76 NM ENE of Kodiak, AK",57.947,-150.042
+210,46081,Station 46081 (LLNR 25647) - Western Prince William Sound,60.802,-148.283
+211,46082,"Station 46082 (LLNR 1097) - Cape Suckling - 35 NM SE of Kayak Is, AK",59.681,-143.372
+212,46083,"Station 46083 (LLNR 1082) - FAIRWEATHER GROUND - 105 NM West of Juneau, AK",58.27,-138.019
+213,46084,"Station 46084 (LLNR 1028) - CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",56.622,-136.102
+214,46085,"Station 46085 (LLNR 984.15) - CENTRAL GULF OF ALASKA - 265NM West of Cape Ommaney, AK",55.883,-142.882
+215,46086,"Station 46086 (LLNR 81) - SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA",32.499,-118.052
+216,46087,"Station 46087 (LLNR 756) - Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)",48.493,-124.726
+217,46088,"Station 46088 (LLNR 16337) - NEW DUNGENESS - 17 NM NE of Port Angeles, WA",48.332,-123.179
+218,46089,"Station 46089 (LLNR 689) - TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",45.933,-125.785
+219,46090,Station 46090 - SOCAL WEST NOOS WX BUOY,32.876,-120.718
+220,46105,"Station 46105 (LLNR 26097) - South Cook Inlet - 10NM NW of East Amatuli Light, AK",59.049,-152.233
+221,46106,Station 46106 (LLNR 26253) - Central Cook Inlet AK,59.76,-152.09
+222,46107,Station 46107 (LLNR 25981) - Montague Strait,59.925,-147.992
+223,46115,Station 46115 - Bering Sea,57.069,-177.75
+224,46270,Station 46270 - S.W. Bering Sea,55.003,175.284
+225,46290,Station 46290 - NOOSS Optimization Buoy,32.659,-120.63
+226,46401,"Station 46401 - SOUTHEAST ADAK - 377NM SE of Adak, AK",46.638,-170.79
+227,46402,"Station 46402 (LLNR 984.3) - South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK",50.978,-163.948
+228,46403,"Station 46403 (LLNR 984.2) - SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK",52.663,-156.778
+229,46404,"Station 46404 (LLNR 765.4) - WEST ASTORIA - 230 NM West of Astoria, OR",45.848,-128.775
+230,46405,"Station 46405 (Station Disestablished) - 325 NM West-Southwest of Newport, OR",42.903,-130.909
+231,46406,"Station 46406 - 2,900 NM Southeast of Hawaii",-8.491,-125.022
+232,46407,"Station 46407 (LLNR 765.2) - NEWPORT - 210NM West of Coos Bay, OR",42.705,-128.835
+233,46408,"Station 46408 (LLNR 984.4) - NIKOLSKI - 212 NM South of Umnak Is, AK",49.666,-169.876
+234,46409,"Station 46409 (LLNR 984.5) - SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK",55.318,-148.547
+235,46410,"Station 46410 (LLNR 984.6) - SOUTH CORDOVA 188NM SSE of Cordova, AK",57.644,-143.734
+236,46411,"Station 46411 (LLNR 448) - Mendocino - 150 NM West of Mendocino Bay, CA",39.335,-127.07
+237,46412,"Station 46412 (LLNR 1) - San Diego - 175 NM West of San Diego, CA",32.4,-120.582
+238,46413,"Station 46413 (LLNR 984.7) - SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",48.045,-173.897
+239,46414,"Station 46414 (LLNR 984.05) - SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",53.726,-152.483
+240,46415,"Station 46415 - SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",52.98,-139.95
+241,46416,"Station 46416 - WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",49.901,-134.395
+242,46419,"Station 46419 (LLNR 765.7) - NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",52.7181,-129.29
+243,46490,Station 46490 - NOOSS Optimization Buoy,32.455,-120.557
+244,46551,Station 46551 - Drifting Buoy,0,0
+245,46553,Station 46553 - Drifting Buoy,0,0
+246,46779,Station 46779 - Drifting Buoy,0,0
+247,46780,Station 46780 - Drifting Buoy,0,0
+248,46781,Station 46781 - Drifting Buoy,0,0
+249,46782,Station 46782 - Drifting Buoy,0,0
+250,46785,Station 46785 - Drifting Buoy,0,0
+251,46B35,"Station 46B35 - CENTRAL BERING SEA - 310 NM North of Adak, AK",57.069,-177.75
+252,48011,Station 48011 - Red Dog Mine,67.582,-164.185
+253,51000,Station 51000 (LLNR 28005.9) - NORTHERN HAWAII ONE - 245NM NE of Honolulu HI,23.528,-153.792
+254,51001,"Station 51001 (LLNR 28006) - NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",24.453,-162
+255,51002,"Station 51002 (LLNR 28005.1) - SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",17.043,-157.742
+256,51003,"Station 51003 (LLNR 28005.7) - WESTERN HAWAII - 205 NM SW of Honolulu, HI",19.196,-160.639
+257,51004,"Station 51004 (LLNR 28005) - SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",17.533,-152.255
+258,51005,Station 51005,20.4,-156.1
+259,51026,Station 51026 - Northern Molokai,21.35,-156.93
+260,51027,Station 51027,20.4,-157.1
+261,51028,Station 51028 (List of Lts) - Christmas Island,0,-153.913
+262,51100,"Station 51100 - NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",23.558,-153.9
+263,51101,"Station 51101 (LLNR 28006.3) - NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI",24.361,-162.075
+264,51406,Station 51406 (List of Lts) - CENTRAL SOUTH PACIFIC - 1040NM NNE of Pitcarin Is,-8.48,-125.027
+265,51407,"Station 51407 (LLNR 28005.5) - HAWAII - 34NM West of Kailua-Kona, HI",19.556,-156.538
+266,51425,"Station 51425 - NORTHWEST APIA - 370 NM NW of Apia, Samoa",-9.505,-176.262
+267,51426,Station 51426 - SOUTHEAST TONGA - 400NM SE of Tonga,-23.11,-168.385
+268,51542,Station 51542 - TAO Buoy Adrift,0,0
+269,52009,Station 52009,13.729,-144.668
+270,52401,Station 52401 - NORTHEAST SAIPAN - 610 NM ENE of Saipan,19.283,155.729
+271,52402,Station 52402 - SOUTHEAST SAIPAN - 540NM ESE of Saipan,11.93,153.895
+272,52403,"Station 52403 - NORTH MANUS - 345NM North of Manus Is , New Guinea",4.026,145.616
+273,52404,"Station 52404 - NORTH PHILIPPINE SEA - 750 NM NE of Manila, Philippines",20.633,132.12
+274,52405,"Station 52405 - SOUTH PHILIPPINE SEA -725 NM West of Agana, Guam",12.991,132.239
+275,52406,Station 52406 - NORTHEAST SOLOMON - 370NM NE of Guadalcanal,-5.373,164.99
+276,54401,"Station 54401 - NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",-33.109,-173.155
+277,91204,"Station 91204 - Ulithi Is., Caroline",9.9,139.7
+278,91222,"Station 91222 - Pagan Is.,Mariana",18.13,145.77
+279,91251,"Station 91251 - Enewetak, MarShall",11.43,162.35
+280,91328,"Station 91328 - Ulul Atoll, Caroline",8.6,149.67
+281,91338,"Station 91338 - Satawan Atoll, Caro.",5.28,153.65
+282,91343,"Station 91343 - Oroluk, Caroline",7.63,155.16
+283,91352,"Station 91352 - Pingelap, Caroline",6.21,160.7
+284,91355,"Station 91355 - Kosrae, Caroline",5.36,162.96
+285,91356,"Station 91356 - Kosrae, Caroline",5.36,162.96
+286,91365,"Station 91365 - Ujae Atoll, Marshall",8.93,165.75
+287,91374,"Station 91374 - Maloelap, Marshall",8.7,171.2
+288,91377,"Station 91377 - Mili, Marshalls Is.",6.1,172.1
+289,91411,"Station 91411 - Ngulu Atoll, Caroline",8.3,137.5
+290,91442,"Station 91442 - Ebon Atoll, Caroline",4.6,168.7
+291,ABAN6,"Station ABAN6 - Alexandria Bay, NY",44.333,-75.933
+292,ALRF1,Station ALRF1 - Alligator Reef,24.9,-80.6
+293,ALSN6,"Station ALSN6 - Ambrose Light, NY",40.45,-73.8
+294,AMAA2,"Station AMAA2 - East Amatuli Island Light, AK",58.915,-151.952
+295,AUGA2,"Station AUGA2 - Augustine Island, AK",59.378,-153.348
+296,BLIA2,"Station BLIA2 - Bligh Reef Light, AK",60.839,-146.884
+297,BURL1,"Station BURL1 - Southwest Pass, LA",28.905,-89.428
+298,BUSL1,Station BUSL1 - Bullwinkle Block 65,27.883,-90.9
+299,BUZM3,"Station BUZM3 - Buzzards Bay, MA",41.397,-71.033
+300,CARO3,"Station CARO3 - Cape Arago, OR",43.342,-124.375
+301,CDRF1,"Station CDRF1 - Cedar Key, FL",29.136,-83.029
+302,CHLV2,"Station CHLV2 - Chesapeake Light, VA",36.905,-75.713
+303,CLKN7,"Station CLKN7 - Cape Lookout, NC",34.622,-76.525
+304,CSBF1,"Station CSBF1 - Cape San Blas, FL",29.672,-85.357
+305,DBLN6,"Station DBLN6 - Dunkirk, NY",42.494,-79.354
+306,DESW1,"Station DESW1 - Destruction Island, WA",47.675,-124.485
+307,DISW3,"Station DISW3 - Devils Island, WI",47.079,-90.728
+308,DPIA1,"Station DPIA1 - Dauphin Island, AL",30.25,-88.075
+309,DRFA2,"Station DRFA2 - Drift River Terminal, AK",60.553,-152.137
+310,DRYF1,"Station DRYF1 - Dry Tortugas, FL",24.638,-82.862
+311,DSLN7,"Station DSLN7 - Diamond Shls Lt., NC",35.153,-75.297
+312,DUCN7,"Station DUCN7 - Duck Pier, NC",36.184,-75.745
+313,EB01,Station EB01,36.5,-73.5
+314,EB10,Station EB10,27.5,-88
+315,EB31,Station EB31,27,-86
+316,EB32,Station EB32,27,-84.3
+317,EB33,Station EB33,58.5,-141
+318,EB35,Station EB35,55.3,-157
+319,EB36,Station EB36,26,-84.8
+320,EB43,Station EB43,59.8,-142
+321,EB52,Station EB52,38.4,-74.3
+322,EB53,Station EB53,28.9,-88.3
+323,EB61,Station EB61,26.9,-84.6
+324,EB62,Station EB62,29,-85.6
+325,EB70,Station EB70,59.5,-142.3
+326,EB90,Station EB90 - BERING SEA,47,-130.9
+327,EB91,Station EB91,38.4,-74.3
+328,EB92,Station EB92,28.5,-90
+329,FARP2,"Station FARP2 - Faraulep, Carolines Island",8.583,144.583
+330,FBIS1,"Station FBIS1 - Folly Island, SC",32.685,-79.888
+331,FFIA2,"Station FFIA2 - Five Fingers, AK",57.272,-133.63
+332,FILA2,"Station FILA2 - Flat Island Light, AK",59.332,-151.995
+333,FPSN7,"Station FPSN7 - Frying Pan Shoals, NC",33.485,-77.59
+334,FWYF1,"Station FWYF1 - Fowey Rock, FL",25.591,-80.097
+335,GBCL1,Station GBCL1 - Garden Banks,27.8,-93.1
+336,GDIL1,"Station GDIL1 - Grand Isle, LA",29.267,-89.957
+337,GLLN6,"Station GLLN6 - Galloo Island, NY",43.89,-76.45
+338,IOSN3,"Station IOSN3 - Isle of Shoals, NH",42.967,-70.623
+339,KTNF1,"Station KTNF1 - Keaton Beach, FL",29.819,-83.594
+340,LNEL1,Station LNEL1 - Lena,28.2,-89.1
+341,LONF1,"Station LONF1 - Long Key, FL",24.844,-80.864
+342,LPOI1,"Station LPOI1 - Lake Pend Oreille, ID",48.06,-116.5
+343,MDRM1,"Station MDRM1 - Mt. Desert Rock, ME",43.969,-68.128
+344,MISM1,"Station MISM1 - Matinicus Rock, ME",43.784,-68.855
+345,MLRF1,"Station MLRF1 - Molasses Reef, FL",25.012,-80.376
+346,MPCL1,Station MPCL1 - Main Pass,29.4,-88.6
+347,MRKA2,"Station MRKA2 - Middle Rock Light, AK",61.082,-146.662
+348,NWPO3,"Station NWPO3 - Newport, OR",44.613,-124.067
+349,PILA2,"Station PILA2 - Pilot Rock, AK",59.742,-149.47
+350,PILM4,"Station PILM4 - Passage Island, MI",48.223,-88.366
+351,PLSF1,"Station PLSF1 - Pulaski Shoals Light, FL",24.693,-82.773
+352,POTA2,"Station POTA2 - Potato Point, AK",61.06,-146.7
+353,PTAC1,"Station PTAC1 - Point Arena, CA",38.955,-123.741
+354,PTAT2,"Station PTAT2 - Port Aransas, TX",27.826,-97.051
+355,PTGC1,"Station PTGC1 - Point Arguello, CA",34.577,-120.648
+356,ROAM4,"Station ROAM4 - Rock of Ages, MI",47.867,-89.313
+357,SANF1,"Station SANF1 - Sand Key, FL",24.456,-81.877
+358,SAUF1,"Station SAUF1 - St. Augustine, FL",29.857,-81.265
+359,SBIO1,"Station SBIO1 - South Bass Island, OH",41.629,-82.841
+360,SGNW3,"Station SGNW3 - Sheboygan, WI",43.749,-87.693
+361,SGOF1,"Station SGOF1 - Tyndall AFB Tower C (N4), FL",29.408,-84.858
+362,SISW1,"Station SISW1 - Smith Island, WA",48.321,-122.831
+363,SJLF1,Station SJLF1 - St. John's Light,30.4,-81.4
+364,SMKF1,"Station SMKF1 - Sombrero Key, FL",24.628,-81.109
+365,SPGF1,"Station SPGF1 - Settlement Point, GBI, Bahamas",26.704,-78.995
+366,SRST2,"Station SRST2 - Sabine Pass, TX",29.683,-94.033
+367,STDM4,"Station STDM4 - Stannard Rock, MI",47.184,-87.225
+368,SUPN6,"Station SUPN6 - Superior Shoals, NY",44.467,-75.8
+369,SVLS1,"Station SVLS1 - Savannah Light, GA",31.95,-80.68
+370,THIN6,"Station THIN6 - Thousand I. Brdg., NY",44.3,-75.983
+371,TPLM2,"Station TPLM2 - Thomas Point, MD",38.899,-76.436
+372,TTIW1,"Station TTIW1 - Tatoosh Island, WA",48.392,-124.735
+373,VENF1,"Station VENF1 - Venice, FL",27.072,-82.453
+374,WPOW1,"Station WPOW1 - West Point, WA",47.662,-122.436
+375,46108,Station 46108 - Lower Cook Inlet (204),59.596,-151.829
+376,46265,"Station 46265 - Nome, AK (241)",64.473,-165.475
+377,48114,Station 48114 - 30 NM West of King Island,65.011,-169.454
+378,41554,Station 41554,0,0
+379,41670,Station 41670,0,0
+380,41852,Station 41852,0,0
+381,41904,Station 41904,0,0
+382,41933,Station 41933,0,0
+383,52834,Station 52834,0,0
+384,52837,Station 52837,0,0
+385,52838,Station 52838,0,0
+386,52839,Station 52839,0,0
+387,52840,Station 52840,0,0
+388,52841,Station 52841,0,0
+389,52842,Station 52842,0,0
+390,52843,Station 52843,0,0
+391,52849,Station 52849,0,0
+392,52858,Station 52858,0,0
+393,52862,Station 52862,0,0
+394,52901,Station 52901,0,0
+395,46246,Station 46246 - Ocean Station PAPA (166),50.017,-145.17
+396,46255,"Station 46255 - Begg Rock, CA (138)",33.4,-119.651
+397,53046,Station 53046 - South Bali,-11.445,113.607
+398,55012,Station 55012 - Coral Sea 1 - 1285km ENE of Townsville,-15.664,158.453
+399,55013,Station 55013 - TASMAN SEA 3 - 1160km ESE of Hobart,-46.665,161.001
+400,55015,Station 55015 - TASMAN SEA 1 - 1110km ESE of Hobart,-46.956,160.343
+401,55016,Station 55016 - ETD Fiji Basin,-26,176
+402,55023,Station 55023 - Coral Sea 2 - 870km NE of Townsville,-14.715,153.537
+403,55042,Station 55042 - Tasman Sea 2 - 1175km ESE of Hobart,-44.79,161.7
+404,55401,"Station 55401 - 600 NM Southeast of Hobart, Tasmania",-46.922,160.562
+405,56001,Station 56001 - Indian Ocean 1 - 1025km NW of Dampier,-14.046,110.028
+406,56003,Station 56003 - Indian Ocean 2 - 630km NNE of Dampier,-15.019,118.073
+407,31051,Station 31051 - Santos,-25.283,-44.933
+408,31052,Station 31052 - RECIFE,-8.15,-34.567
+409,31053,Station 31053 - RIO GRANDE DO SUL,-32.595,-51.353
+410,31260,Station 31260,-23.031,-43.088
+411,CPXC1,"Station CPXC1 - Cal Poly Pier, CA",35.17,-120.741
+412,MBXC1,"Station MBXC1 - Morro Bay - BM1 T-Pier, CA",35.371,-120.859
+413,DMBC1,"Station DMBC1 - Dumbarton Bridge at Newark, CA",37.507,-122.117
+414,NLEC1,"Station NLEC1 - San Leandro Marina, CA",37.696,-122.192
+415,41051,"Station 41051 - South of St. Thomas, VI",18.257,-65.004
+416,41052,"Station 41052 - South of St. John, VI",18.249,-64.763
+417,41053,"Station 41053 - San Juan, PR",18.474,-66.099
+418,41056,"Station 41056 - Vieques Island, PR",18.261,-65.464
+419,41058,"Station 41058 - North of St. Thomas, VI",18.476,-65.157
+420,41115,"Station 41115 - Rincon, Puerto Rico (181)",18.376,-67.28
+421,41121,"Station 41121 - Arecibo, Puerto Rico (249)",18.49,-66.701
+422,42085,"Station 42085 - Southeast of Ponce, PR",17.869,-66.532
+423,IMGP4,"Station IMGP4 - Isla Magueyes, Lajas, PR",17.969,-67.044
+424,PTRP4,"Station PTRP4 - Puntas Rincon, PR",18.367,-67.251
+425,41027,Station 41027 - Sunset Mid-Shelf (SUN 3),33.302,-78.137
+426,41030,Station 41030 - Capers Mid-Shelf (CAP 3),32.52,-79.34
+427,SNSN7,"Station SNSN7 - 8659897 - Sunset Beach, NC",33.865,-78.507
+428,CQUC1,"Station CQUC1 - Carquinez, CA",38.066,-122.23
+429,HBXC1,"Station HBXC1 - Humboldt, CA",40.777,-124.197
+430,MYXC1,"Station MYXC1 - Monterrey, CA",36.605,-121.889
+431,TDPC1,"Station TDPC1 - Trinidad Pier Trinidad, CA",41.055,-124.147
+432,TIBC1,"Station TIBC1 - Tiburon Pier, San Francisco Bay, CA",37.892,-122.447
+433,44041,"Station 44041 - Jamestown, VA",37.204,-76.777
+434,44042,"Station 44042 - Potomac, MD",38.033,-76.335
+435,44043,"Station 44043 - Patapsco, MD",39.152,-76.391
+436,44057,"Station 44057 - Susquehanna, MD",39.54,-76.074
+437,44058,"Station 44058 - Stingray Point, VA",37.567,-76.257
+438,44059,"Station 44059 - Norfolk, VA",36.846,-76.298
+439,44061,"Station 44061 - Upper Potomac, MD",38.788,-77.036
+440,44062,"Station 44062 - Gooses Reef, MD",38.556,-76.415
+441,44063,"Station 44063 - Annapolis, MD",38.963,-76.448
+442,44064,"Station 44064 - First Landing, VA",36.998,-76.087
+443,44068,Station 44068 - VCU Rice Rivers Center,37.314,-77.191
+444,44072,"Station 44072 - York Spit, VA",37.201,-76.266
+445,44044,Station 44044 - Patuxent River Buoy,38.389,-76.526
+446,CBIM2,Station CBIM2 - Chesapeake Biological Laboratory Weather Station MD,38.317,-76.451
+447,45015,"Station 45015 - Calumet Beach, Chicago, IL",41.714,-87.527
+448,45016,"Station 45016 - Sixth-third St. Beach, Chicago, IL",41.783,-87.573
+449,45017,"Station 45017 - Oak St. Beach, Chicago, IL",41.903,-87.622
+450,45018,"Station 45018 - Montrose Ave. Beach, Chicago, IL",41.968,-87.637
+451,45019,"Station 45019 - Foster Ave. Beach, Chicago, IL",41.979,-87.649
+452,45177,"Station 45177 - Ohio St. Beach, Chicago, IL",41.894,-87.613
+453,FSTI2,"Station FSTI2 - Foster Ave., Chicago, IL",41.976,-87.648
+454,JAKI2,"Station JAKI2 - 63rd St., Chicago, IL",41.781,-87.573
+455,OKSI2,"Station OKSI2 - Oak St., Chicago, IL",41.912,-87.624
+456,46096,Station 46096 - Columbia River Entrance - SATURN Station #02 Offshore,46.173,-124.127
+457,46116,"Station 46116 - SATURN Estuary Station #07, Baker Bay, WA",46.287,-124.016
+458,46117,"Station 46117 - SATURN Estuary Station #09, Youngs Bay, OR",46.176,-123.869
+459,46127,"Station 46127 - SATURN Offshore Station #10, Columbia River, South Jetty, OR",46.215,-124.063
+460,DMNO3,"Station DMNO3 - Desdemona Sands Light, OR",46.226,-123.955
+461,GPTW1,"Station GPTW1 - Grays Point, WA",46.273,-123.767
+462,HMNO3,"Station HMNO3 - Hammond Tide Gauge, OR",46.203,-123.952
+463,JTAW1,"Station JTAW1 - Jetty A, USCG Station Disappointment",46.266,-124.038
+464,LSIO3,"Station LSIO3 - Lower Sand Island Light, OR",46.256,-123.982
+465,PRTO3,Station PRTO3 - SATURN River Station #06 at Portland,45.518,-122.669
+466,SEFO3,Station SEFO3 - SATURN Estuary Station #04 at Mott Basin,46.204,-123.759
+467,SETO3,Station SETO3 - SATURN Estuary Station #03,46.2,-123.941
+468,SRAW1,"Station SRAW1 - SATURN River Station #08, Camas, WA",45.572,-122.379
+469,SRFW1,Station SRFW1 - SATURN River Station #05,46.185,-123.188
+470,TANO3,"Station TANO3 - Tansy Point, OR",46.189,-123.919
+471,TNSO3,"Station TNSO3 - Tenasillahe Island USFW Dock, OR",46.238,-123.468
+472,WDYO3,"Station WDYO3 - Woody Island, OR",46.252,-123.534
+473,42013,"Station 42013 - C10 - WFS Central Buoy, 25m Isobath",27.173,-82.924
+474,42014,Station 42014 - C17 - W. FL Sea-Coos,25.254,-82.22
+475,42021,"Station 42021 - C14 - Pasco County Buoy, FL",28.311,-83.306
+476,42022,"Station 42022 - C12 - WFS Central Buoy, 50m Isobath",27.505,-83.741
+477,42023,"Station 42023 - C13 - WFS South Buoy, 50m Isobath",26.01,-83.086
+478,42024,Station 42024 - C16 - W. FL MERHAB,27.464,-84.219
+479,42026,"Station 42026 - Loop Current Pressure Point Buoy, 70m Isobath",25.171,-83.475
+480,ANCF1,"Station ANCF1 - Anclote Gulf Park, FL",28.193,-82.789
+481,ANMF1,"Station ANMF1 - ANM - Anna Maria, FL",27.538,-82.739
+482,ARPF1,"Station ARPF1 - APK - Aripeka, FL",28.433,-82.667
+483,BGCF1,"Station BGCF1 - BCP - Big Carlos Pass, FL",26.404,-81.881
+484,CAMF1,"Station CAMF1 - Campbell Park, FL",27.765,-82.649
+485,CLBF1,"Station CLBF1 - Clam Bayou, FL",27.736,-82.686
+486,EGKF1,"Station EGKF1 - EGK - Egmont Key, FL",27.601,-82.759
+487,FHPF1,"Station FHPF1 - FHP - Fred Howard Park, FL",28.153,-82.801
+488,HSSF1,"Station HSSF1 - HOM - Homosassa, FL",28.772,-82.707
+489,NFBF1,"Station NFBF1 - NFB - Northwest Florida Bay, FL",25.084,-81.096
+490,PTRF1,"Station PTRF1 - PAS -Port Richey, FL",28.285,-82.733
+491,SHPF1,"Station SHPF1 - SHP - Shell Point, FL",30.058,-84.291
+492,TARF1,"Station TARF1 - TAS - Tarpon Springs, FL",28.156,-82.758
+493,42092,"Station 42092 - Aransas Pass Channel Entrance S, TX (252)",27.774,-96.972
+494,32403,"Station 32403 - 91NM West of Antofagasta, Chile",-23.163,-72.037
+495,32404,Station 32404 - 120 NM NW of Valparaiso,-32.123,-73.799
+496,34420,"Station 34420 - 119NM NW of Concepcion, Chile",-35.758,-75.243
+497,MLTO3,"Station MLTO3 - Marsh Island, OR",46.214,-123.62
+498,41024,"Station 41024 - Sunset Nearshore, NC (SUN2)",33.837,-78.477
+499,41029,"Station 41029 - Capers Nearshore, SC (CAP2)",32.803,-79.624
+500,41033,"Station 41033 - Fripp Nearshore, SC (FRP2)",32.279,-80.406
+501,41037,"Station 41037 - Wrightsville Beach Offshore, NC (ILM3)",33.988,-77.362
+502,41038,"Station 41038 - Wrightsville Beach Nearshore, NC (ILM2)",34.141,-77.715
+503,41064,"Station 41064 - Onslow Bay Outer, NC (LEJ3)",34.207,-76.949
+504,41065,Station 41065 - Capers Nearshore Waves (CAP2WAVE),32.802,-79.619
+505,41110,"Station 41110 - Masonboro Inlet, ILM2, NC (150)",34.142,-77.715
+506,41119,"Station 41119 - Sunset Beach, NC - (245)",33.842,-78.483
+507,41159,"Station 41159 - Onslow Bay Outer, NC (217)",34.213,-76.949
+508,MBIN7,"Station MBIN7 - Masonboro Island, NC (MSNB_S)",34.091,-77.868
+509,MBNN7,"Station MBNN7 - Masonboro Island, NC (MSNB_N)",34.171,-77.824
+510,OCPN7,"Station OCPN7 - OCP1 - Ocean Crest Pier, NC",33.911,-78.147
+511,SSBN7,Station SSBN7 - Sunset Beach Nearshore Waves (SUN2WAVE),33.838,-78.484
+512,42031,"Station 42031 - West End CP, AL",30.09,-88.212
+513,BSCA1,"Station BSCA1 - Bon Secour, AL",30.329,-87.829
+514,CRTA1,"Station CRTA1 - Cedar Point, AL",30.308,-88.14
+515,DPHA1,"Station DPHA1 - Dauphin Island Sea Lab, AL",30.251,-88.078
+516,KATA1,"Station KATA1 - Katrina Cut, AL",30.258,-88.213
+517,MBLA1,"Station MBLA1 - Middle Bay Lighthouse, AL",30.437,-88.011
+518,MHPA1,"Station MHPA1 - Meaher Park, AL",30.667,-87.936
+519,PPTA1,"Station PPTA1 - Perdido Pass, AL",30.279,-87.556
+520,44054,Station 44054 - Lower Delaware Bay Buoy,38.883,-75.183
+521,44055,Station 44055 - Central Delaware Bay,39.122,-75.256
+522,32489,"Station 32489 - Colombia 121NM SW of Buenaventura, Colombia",2.998,-79.101
+523,32487,"Station 32487 - Buenaventura, Colombia",3.517,-77.737
+524,32488,"Station 32488 - Bahia Solano, Colombia",6.258,-77.511
+525,41193,"Station 41193 - Puerto Bolivar, Colombia",12.351,-72.218
+526,41194,"Station 41194 - Barranquilla, Colombia",11.161,-74.681
+527,44137,Station 44137 - East Scotia Slope,42.26,-62.03
+528,44138,Station 44138 - SW Grand Banks,44.25,-53.63
+529,44139,Station 44139 - Banqureau Banks,44.24,-57.1
+530,44140,Station 44140 - Tail of the Bank,42.87,-51.47
+531,44141,Station 44141 - Laurentian Fan,42.99,-57.96
+532,44142,Station 44142 - La Have Bank,42.5,-64.033
+533,44150,Station 44150 - La Have Bank,42.5,-64.02
+534,44174,Station 44174 - Anticosti,49.075,-60.822
+535,44175,Station 44175 - iles de la Madeleine,46.877,-62
+536,44176,Station 44176 - Point Escuminac,47.535,-64.527
+537,44235,"Station 44235 - South Ramea Island, Newfoundland (170)",47.263,-57.341
+538,44251,Station 44251 - Nickerson Bank,46.44,-53.39
+539,44255,Station 44255 - NE Burgeo Bank,47.27,-57.34
+540,44258,Station 44258 - Halifax Harbour,44.5,-63.4
+541,44488,Station 44488 - East of Chedabucto Bay,45.44,-60.95
+542,44489,Station 44489 - West Chedabucto Bay,45.49,-61.14
+543,44490,Station 44490 - West Bay of Fundy,44.66,-66.37
+544,45132,Station 45132 - Port Stanley,42.46,-81.22
+545,45135,Station 45135 - Prince Edward Pt,43.78,-76.87
+546,45136,Station 45136 - Slate Island,48.54,-86.95
+547,45137,Station 45137 - Georgian Bay,45.54,-81.02
+548,45138,Station 45138 - Mont Louis,49.54,-65.71
+549,45139,Station 45139 - West Lake Ontario - Grimsby,43.25,-79.53
+550,45140,Station 45140 - Lake Winnipeg S. Basin,50.8,-96.73
+551,45141,Station 45141 - Great Slave Lake,61.18,-115.31
+552,45142,Station 45142 - Port Colborne,42.74,-79.29
+553,45143,Station 45143 - South Georgian Bay,44.94,-80.627
+554,45144,Station 45144 - Lake Winnipeg North,53.23,-98.29
+555,45145,Station 45145 - Lake Winnipeg Narrows,51.87,-96.97
+556,45147,Station 45147 - Lake St Clair,42.43,-82.68
+557,45148,Station 45148 - Lake of the Woods,49.65,-94.5
+558,45149,Station 45149 - Southern Lake Huron,43.54,-82.08
+559,45150,"Station 45150 - Great Slave Lake, North Arm",61.98,-114.13
+560,45151,Station 45151 - Lake Simcoe,44.5,-79.37
+561,45152,Station 45152 - Lake Nipissing,46.23,-79.72
+562,45154,Station 45154 - North Channel East,46.05,-82.64
+563,45155,Station 45155 - Pan Am Games,43.59,-79.39
+564,45158,Station 45158 - Hudson Bay,59,-94
+565,45159,Station 45159 - NW Lake Ontario Ajax,43.77,-78.98
+566,45160,Station 45160 - 16-Mile Creek,43.417,-79.633
+567,46004,Station 46004 - Middle Nomad,50.93,-136.1
+568,46036,Station 46036 - South Nomad,48.36,-133.94
+569,46131,Station 46131 - Sentry Shoal,49.91,-124.98
+570,46132,Station 46132 - South Brooks,49.78,-127.89
+571,46134,Station 46134 - Pat Bay,48.65,-123.5
+572,46138,"Station 46138 - South Hecate Strait, Canada (174)",52.437,-129.795
+573,46139,"Station 46139 - La Perouse Bank DWR, Canada (195)",48.844,-126.01
+574,46145,Station 46145 - Central Dixon Entrance Buoy,54.37,-132.42
+575,46146,Station 46146 - Halibut Bank,49.34,-123.73
+576,46147,Station 46147 - South Moresby,51.83,-131.22
+577,46181,Station 46181 - Nanakwa Shoal,53.83,-128.83
+578,46183,Station 46183 - North Hecate Strait,53.62,-131.1
+579,46184,Station 46184 - North Nomad,53.92,-138.85
+580,46185,Station 46185 - South Hecate Strait,52.42,-129.79
+581,46204,Station 46204 - West Sea Otter,51.38,-128.77
+582,46205,Station 46205 - West Dixon Entrance,54.18,-134.32
+583,46206,Station 46206 - La Perouse Bank,48.84,-126
+584,46207,Station 46207 - East Dellwood,50.87,-129.92
+585,46208,Station 46208 - West Moresby,52.52,-132.69
+586,46303,Station 46303 - Southern Georgia Strait,49.02,-123.43
+587,46304,Station 46304 - Entrance To English Bay,49.3,-123.36
+588,48021,Station 48021 - Tuktoyaktuk,70.35,-133
+589,CWCI,Station CWCI - Caribou Island,47.334,-85.833
+590,LMBV4,"Station LMBV4 - La Mancha Beach, Mexico",19.594,-96.379
+591,SACV4,"Station SACV4 - Sacrifice Island, Mexico",19.174,-96.093
+592,VERV4,"Station VERV4 - Veracruz Harbor, MX",19.204,-96.113
+593,55039,Station 55039,-38.36,148.11
+594,BBNF1,Station BBNF1 - BBCW8,25.601,-80.306
+595,BBSF1,Station BBSF1 - BBCW10,25.472,-80.349
+596,BDVF1,"Station BDVF1 - Broad River, FL",25.478,-80.989
+597,BKYF1,"Station BKYF1 - Buoy Key, FL",25.119,-80.834
+598,BNKF1,"Station BNKF1 - Butternut Key, FL",25.087,-80.519
+599,BOBF1,"Station BOBF1 - Bob Allen, FL",25.027,-80.681
+600,BSKF1,"Station BSKF1 - Big Sable Creek, FL",25.266,-81.162
+601,BWSF1,"Station BWSF1 - Blackwater Sound, FL",25.178,-80.438
+602,CANF1,"Station CANF1 - Cane Patch, FL",25.422,-80.942
+603,CNBF1,"Station CNBF1 - Cannon Bay, FL",25.702,-81.186
+604,CWAF1,"Station CWAF1 - Clear Water Pass, FL",25.297,-81.013
+605,DKKF1,"Station DKKF1 - Duck Key, FL",25.18,-80.49
+606,GBIF1,"Station GBIF1 - Gunboat Island, FL",25.378,-81.029
+607,GBTF1,"Station GBTF1 - Garfield Bight, FL",25.167,-80.801
+608,GKYF1,"Station GKYF1 - Garden Key, FL",24.627,-82.872
+609,HCEF1,"Station HCEF1 - Highway Creek, FL",25.254,-80.444
+610,HREF1,"Station HREF1 - Harney River, FL",25.424,-81.06
+611,JBYF1,"Station JBYF1 - Joe Bay, FL",25.224,-80.541
+612,JKYF1,"Station JKYF1 - Johnson Key, FL",25.053,-80.904
+613,LBRF1,"Station LBRF1 - Broad River Lower, FL",25.484,-81.133
+614,LBSF1,"Station LBSF1 - Little Blackwater, FL",25.214,-80.432
+615,LMDF1,"Station LMDF1 - Little Madeira, FL",25.176,-80.633
+616,LMRF1,"Station LMRF1 - Lostmans River, FL",25.556,-81.169
+617,LRIF1,"Station LRIF1 - Lane River, FL",25.284,-80.894
+618,LRKF1,"Station LRKF1 - Little Rabbit Key, FL",24.982,-80.826
+619,LSNF1,"Station LSNF1 - Long Sound, FL",25.235,-80.457
+620,MDKF1,"Station MDKF1 - Middle Key, FL",25.289,-80.396
+621,MNBF1,"Station MNBF1 - Manatee Bay, FL",25.239,-80.422
+622,MUKF1,"Station MUKF1 - Murray Key, FL",25.106,-80.942
+623,NRRF1,"Station NRRF1 - North River, FL",25.338,-80.911
+624,PKYF1,"Station PKYF1 - Peterson Key, FL",24.918,-80.747
+625,SREF1,"Station SREF1 - Shark River, FL",25.352,-81.1
+626,TBYF1,"Station TBYF1 - Terrapin Bay, FL",25.155,-80.722
+627,TCVF1,"Station TCVF1 - Trout Cove, FL",25.213,-80.533
+628,THRF1,"Station THRF1 - Thursday Point, FL",25.203,-80.372
+629,TPEF1,"Station TPEF1 - Tarpon Bay East, FL",25.41,-80.964
+630,TRRF1,"Station TRRF1 - Taylor River, FL",25.217,-80.65
+631,WIWF1,"Station WIWF1 - Willy Willy, FL",25.587,-81.044
+632,WPLF1,"Station WPLF1 - Watson Place, FL",25.71,-81.249
+633,WRBF1,"Station WRBF1 - Whipray Basin, FL",25.072,-80.735
+634,WWEF1,"Station WWEF1 - Whitewater Bay-East, FL",25.232,-80.938
+635,KATP,Station KATP - Green Canyon 787 / Atlantis (BP),27.195,-90.027
+636,KBBF,Station KBBF - Brazos 133B (Apache Corp),28.058,-95.872
+637,KBQX,Station KBQX - Brazos 538 (Transco),28.314,-95.62
+638,KCMB,Station KCMB - East Cameron 47JP (Apache Corp),29.441,-92.979
+639,KCRH,Station KCRH - West Cameron 368A (Century Exploration),28.909,-93.302
+640,KCVW,"Station KCVW - Cameron, LA (PHI)",29.784,-93.3
+641,KDLP,Station KDLP - West Delta 27A (AngloSuisse Offshore Partners),29.121,-89.547
+642,KEHC,Station KEHC - East Cameron 278B (Apache Corp),28.429,-92.878
+643,KEIR,Station KEIR - Eugene Island 215 (McMoRan Oil & Gas),28.634,-91.489
+644,KEMK,Station KEMK - East Breaks 165 (SandRidge Energy),27.819,-94.323
+645,KGBK,Station KGBK - Garden Banks 783 / Magnolia TLP (W&T Offshore),27.204,-92.203
+646,KGHB,Station KGHB - Garden Banks 172 / Salsa (Shell E & P),27.84,-91.988
+647,KGRY,Station KGRY - Green Canyon 338 / Front Runner (Murphy E&P),27.625,-90.441
+648,KGUL,Station KGUL - Garden Banks 668 / Gunnison Spar (Anadarko),27.304,-93.538
+649,KGVX,Station KGVX - Galveston 424C (Nippon Oil Exploration),28.577,-94.976
+650,KHHV,Station KHHV - Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp),26.939,-94.689
+651,KHQI,Station KHQI - High Island 376B (Apache),27.934,-93.669
+652,KIKT,Station KIKT - Mississippi Canyon 474 / Na Kika FPU (BP),28.521,-88.289
+653,KIPN,Station KIPN - Mississippi Canyon 920 / Independence Hub (Anadarko / Enterprise),28.085,-87.986
+654,KMDJ,Station KMDJ - Mississippi Canyon 311A (Apache Corp),28.643,-89.794
+655,KMIS,Station KMIS - MP 140B AWOS (Apache Corp),29.296,-88.842
+656,KMIU,Station KMIU - Mustang Island A31B (Merit Energy),27.289,-96.736
+657,KMYT,Station KMYT - Mississippi Canyon 711 / ATP Innovator (ATP Oil & Gas),28.221,-89.615
+658,KMZG,Station KMZG - Mustang Island A85A (Apache Corp),27.727,-96.191
+659,KOPM,Station KOPM - North Padre Island 975 (Peregrine Oil & Gas),26.833,-96.94
+660,KSCF,Station KSCF - South Marsh 268A (Apache Corp),29.116,-91.871
+661,KSPR,Station KSPR - Ship Shoal 178 (Apache Corp),28.599,-91.206
+662,KSQE,Station KSQE - Ship Shoal 354 (Fieldwood Energy),28.083,-90.819
+663,KSTZ,Station KSTZ - South Timballer 301B / Popeye (Shell E & P),28.16,-90.666
+664,KVAF,Station KVAF - East Breaks 643 / Boomvang Spar (Anadarko),27.354,-94.625
+665,KVBS,Station KVBS - Sabine Pass 13B (Nippon Oil Exploration),29.478,-93.638
+666,KVKY,Station KVKY - Main Pass 289C (Apache Corp.),29.248,-88.441
+667,KVNP,Station KVNP - Vermillion 26 (Mariner Energy),29.467,-92.368
+668,KVOA,Station KVOA - Viosca Knoll 786 / Petronius (Chevron),29.229,-87.781
+669,KVQT,Station KVQT - Vermillon 331A (ERT / Helix),28.27,-92.264
+670,KXIH,Station KXIH - High Island 179A AWOS (Apache Corp),29.18,-94.521
+671,KXPY,Station KXPY - Port Fourchon Heliport (Era Helicopters),29.123,-90.202
+672,SIPF1,"Station SIPF1 - Sebastian Inlet State Park North Jetty, FL",27.862,-80.445
+673,45161,"Station 45161 - Muskegon Buoy, MI",43.185,-86.355
+674,45162,"Station 45162 - Thunder Bay Buoy, Alpena, MI",44.988,-83.27
+675,45163,"Station 45163 - Saginaw Bay Buoy, MI",43.983,-83.593
+676,45195,"Station 45195 - Schuyler Reef, NY (251)",44.488,-73.339
+677,APNM4,"Station APNM4 - Alpena Harbor Light, Alpena, MI",45.06,-83.424
+678,CHII2,"Station CHII2 - Harrison-Dever Crib, Chicago, IL",41.916,-87.572
+679,MCYI3,"Station MCYI3 - Michigan City Harbor Entrance Light, Michigan City, IN",41.729,-86.912
+680,MKGM4,"Station MKGM4 - Muskegon CG Station, Muskegon, MI",43.227,-86.339
+681,MLWW3,Station MLWW3 - Port of Milwaukee,43.005,-87.884
+682,SRLM4,"Station SRLM4 - Spectacle Reef Light, MI",45.773,-84.137
+683,SVNM4,"Station SVNM4 - South Haven Light, South Haven, MI",42.401,-86.288
+684,TBIM4,"Station TBIM4 - Thunder Bay Island, MI",45.035,-83.194
+685,THLO1,Station THLO1 - Toledo Light No. 2 OH,41.826,-83.194
+686,WSLM4,"Station WSLM4 - White Shoal Light, MI",45.842,-85.135
+687,42098,"Station 42098 - Egmont Channel Entrance, FL (214)",27.59,-82.931
+688,ERKC1,"Station ERKC1 - Dock B Eureka, CA",40.778,-124.196
+689,32401,"Station 32401 - 180 NM West of Iquique, Chile",-20.474,-73.421
+690,32402,"Station 32402 - 180 NM West of Caldera, Chile",-26.743,-73.983
+691,TFBLK,"Station TFBLK - 10.0 nm WNW on Blakknes, Iceland",65.698,-24.778
+692,45170,"Station 45170 - Michigan City Buoy, IN",41.755,-86.968
+693,45198,Station 45198 - Chicago Buoy,41.892,-87.563
+694,23217,Station 23217 - Bay of Bengal IN3,3.798,91.701
+695,23219,Station 23219 - Bay of Bengal,13.472,88.998
+696,23227,Station 23227 - Bay of Bengal,6.255,88.792
+697,23228,Station 23228 - Arabian Sea,20.764,65.284
+698,53401,Station 53401 - Indonesia,0.05,91.899
+699,31261,Station 31261,-31.538,-49.862
+700,31478,Station 31478,-22.882,-43.132
+701,21401,Station 21401 - 250NM Southeast of Iturup Island,42.617,152.583
+702,21402,Station 21402 - 286NM East of Simushir Island,46.488,158.343
+703,32066,Station 32066 - Ecuador INOCAR,-1.136,-81.765
+704,32067,Station 32067 - ECUADOR INOCAR,0.641,-81.262
+705,32068,"Station 32068 - ECUADOR INOCAR - 58 NM West of Manta, Ecuador",-0.888,-81.664
+706,32069,"Station 32069 - ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador",0.255,-81.211
+707,41057,"Station 41057 - Puerto Plata, DO",19.833,-70.731
+708,42087,"Station 42087 - Buccoo Reef, Buccoo Marine Park, TT",11.185,-60.848
+709,42088,"Station 42088 - Angel Reef, TT",11.301,-60.521
+710,42089,"Station 42089 - Little Cayman Research Center, CYM",19.699,-80.061
+711,42090,"Station 42090 - Catuan Wreck, Boca Chica, DR",18.432,-69.58
+712,LCIY2,"Station LCIY2 - Little Cayman Research Centre, Cayman Islands",19.699,-80.06
+713,LLBP7,"Station LLBP7 - Lao Lao Bay, Saipan, CNMI",15.157,145.77
+714,LPRP4,"Station LPRP4 - Media Luna, La Parguera, PR",17.939,-67.052
+715,PVGF1,"Station PVGF1 - Port Everglades Channel, FL",26.092,-80.109
+716,SRBV3,"Station SRBV3 - Salt River Bay, St. Croix, U.S. Virgin Islands",17.784,-64.762
+717,44067,"Station 44067 - Potomac River, Near HWY 301",38.368,-76.996
+718,46109,Station 46109 - Port Angeles Buoy,48.123,-123.395
+719,46110,Station 46110 - Sequim Buoy,48.115,-123.032
+720,46111,Station 46111 - Fort Worden Buoy,48.131,-122.748
+721,46112,Station 46112 - Marrowstone Buoy,48.1,-122.73
+722,46113,Station 46113 - Poulsbo Buoy,47.73,-122.646
+723,21178,Station 21178 - South of Shikoku,33.12,133.62
+724,21346,"Station 21346 - 21346 380km East of Iwate, Japan",40.302,146.192
+725,21347,"Station 21347 - 21347 320km East of Iwate, Japan",39.601,145.799
+726,21348,"Station 21348 - 21348 350km East of Miyagi, Japan",38.816,145.595
+727,21595,Station 21595 - Drifter,0,0
+728,21597,Station 21597 - Drifter,0,0
+729,21598,Station 21598 - Drifter,0,0
+730,21600,Station 21600 - Drifter,0,0
+731,21636,Station 21636 - Drifter,0,0
+732,21637,Station 21637 - Drifter,0,0
+733,21640,Station 21640 - Drifter,0,0
+734,21707,Station 21707,0,0
+735,23020,Station 23020 - Red Sea,22.162,38.5
+736,22101,Station 22101,37.23,126.02
+737,22102,Station 22102,34.8,125.77
+738,22103,Station 22103,34,127.5
+739,22104,Station 22104,34.77,128.9
+740,22105,Station 22105,37.53,130
+741,22106,Station 22106,36.35,129.78
+742,22107,Station 22107,33.08,126.03
+743,22108,Station 22108,36.25,125.75
+744,45026,"Station 45026 - Cook Nuclear Plant Buoy, Stevensville, MI",41.982,-86.619
+745,45029,"Station 45029 - Holland Buoy, MI",42.9,-86.272
+746,45164,"Station 45164 - Cleveland Buoy, OH",41.732,-81.694
+747,45165,"Station 45165 - Toledo Water Intake Buoy, Oregon, OH",41.702,-83.261
+748,45168,"Station 45168 - South Haven Buoy, MI",42.397,-86.331
+749,45169,"Station 45169 - Lakewood Buoy, OH",41.615,-81.821
+750,45176,"Station 45176 - Cleveland Intake Crib Buoy, OH",41.55,-81.765
+751,45196,"Station 45196 - Rocky River, OH",41.521,-81.88
+752,45197,"Station 45197 - Euclid, OH",41.619,-81.617
+753,TWCO1,"Station TWCO1 - Toledo Crib, OH",41.699,-83.259
+754,45174,"Station 45174 - Wilmette Buoy, IL",42.135,-87.655
+755,BHRC3,"Station BHRC3 - Bridgeport Terminal, CT",41.175,-73.185
+756,FWIC3,"Station FWIC3 - Fayerweather Island, CT",41.15,-73.172
+757,MISC3,"Station MISC3 - North Middle Sound, CT",41.074,-73.134
+758,MISN6,"Station MISN6 - South Middle Sound, NY",41.049,-73.121
+759,NCSC3,"Station NCSC3 - North Central Sound, CT",41.099,-73.147
+760,NOSC3,"Station NOSC3 - Northern Open Sound, CT",41.125,-73.159
+761,OFPN6,"Station OFPN6 - Old Field Island, NY",40.973,-73.083
+762,PTJN6,"Station PTJN6 - Port Jefferson, NY",40.948,-73.07
+763,SCSN6,"Station SCSN6 - South Central Sound, NY",41.024,-73.108
+764,SOSN6,"Station SOSN6 - Southern Open Sound, NY",40.998,-73.095
+765,LOPL1,"Station LOPL1 - Louisiana Offshore Oil Port, LA",28.885,-90.025
+766,GRBL1,"Station GRBL1 - Grand Isle Blocks, LA / CSI09",29.101,-89.978
+767,ILDL1,"Station ILDL1 - Isle Dernieres, LA / CSI05",29.053,-90.533
+768,MRSL1,"Station MRSL1 - Marsh Island, LA / CSI03",29.441,-92.061
+769,SIPM6,"Station SIPM6 - Ship Island Pass, MS / CSI13",30.267,-89.017
+770,SLPL1,"Station SLPL1 - Salt Point, LA / CSI14",29.517,-91.55
+771,SPLL1,"Station SPLL1 - South Timbalier Block 52, LA / CSI06",28.867,-90.483
+772,LKPL1,"Station LKPL1 - Western Lake Pontchartrain, LA",30.315,-90.281
+773,LUML1,"Station LUML1 - LUMCON Marine Center, LA",29.255,-90.664
+774,TAML1,"Station TAML1 - Tambour Bay, LA",29.188,-90.665
+775,TRBL1,"Station TRBL1 - Terrebonne Bay, LA",29.187,-90.608
+776,AJXA2,"Station AJXA2 - Juneau AJ Dock, AK",58.287,-134.398
+777,CDXA2,"Station CDXA2 - Cape Decision MXAK, AK",56.001,-134.136
+778,ERXA2,"Station ERXA2 - Eldred Rock MXAK, AK",58.971,-135.221
+779,GEXA2,"Station GEXA2 - George Island, Alaska",58.212,-136.381
+780,GIXA2,"Station GIXA2 - Guard Island, AK",55.446,-131.881
+781,GPXA2,"Station GPXA2 - Grave Point, AK",58.062,-134.051
+782,GUXA2,"Station GUXA2 - Gustavus Dock, AK",58.408,-135.726
+783,HAXA2,"Station HAXA2 - Haines Harbor, AK",59.234,-135.442
+784,HMSA2,"Station HMSA2 - Homer Spit, AK",59.602,-151.417
+785,ICYA2,"Station ICYA2 - Icy Bay, AK",59.927,-141.359
+786,JLXA2,"Station JLXA2 - Juneau Library, AK",58.298,-134.405
+787,JMLA2,Station JMLA2 - Juneau AML Dock,58.286,-134.39
+788,JNGA2,"Station JNGA2 - Juneau ANG Dock, AK",58.291,-134.394
+789,KEXA2,"Station KEXA2 - Ketchikan Harbor, AK",55.352,-131.684
+790,LIXA2,"Station LIXA2 - Little Island, AK",58.54,-135.047
+791,MIXA2,"Station MIXA2 - Midway Island, AK",57.837,-133.814
+792,MRNA2,"Station MRNA2 - Marmion Island, AK",58.198,-134.257
+793,MRYA2,"Station MRYA2 - Mary Island, AK",55.099,-131.182
+794,MVXA2,"Station MVXA2 - Mendenhall Valley, AK",58.364,-134.606
+795,MXXA2,"Station MXXA2 - MXAK Office, AK",58.301,-134.425
+796,NKLA2,Station NKLA2 - Nikolski White Alice,52.972,-168.855
+797,NKXA2,"Station NKXA2 - Naked Island, AK",58.255,-134.945
+798,NLXA2,"Station NLXA2 - Nelson Lagoon, AK",56.005,-161.177
+799,PAXA2,"Station PAXA2 - Point Arden, AK",58.159,-134.178
+800,PGXA2,Station PGXA2 - Point Gardner,57.016,-134.618
+801,PTLA2,"Station PTLA2 - Portland Island, AK",58.346,-134.752
+802,RIXA2,"Station RIXA2 - Rocky Island, AK",58.177,-135.052
+803,SCXA2,"Station SCXA2 - Scull Island, AK",58.205,-134.646
+804,SHXA2,"Station SHXA2 - Sitka Harbor, AK",57.055,-135.349
+805,SIXA2,"Station SIXA2 - Ship Island, AK",55.616,-132.203
+806,SKXA2,"Station SKXA2 - Skagway MXAK, AK",59.448,-135.326
+807,SLXA2,"Station SLXA2 - Salmon Landing, AK",55.34,-131.644
+808,SPXA2,"Station SPXA2 - Ship Island, AK",55.616,-132.203
+809,STXA2,"Station STXA2 - Sitka AML, AK",57.116,-135.391
+810,SXXA2,"Station SXXA2 - Saxman Landing, AK",55.315,-131.596
+811,TKEA2,"Station TKEA2 - Tenakee Springs, AK",57.779,-135.219
+812,TPXA2,"Station TPXA2 - Tree Point, AK",54.802,-130.934
+813,WCXA2,"Station WCXA2 - Ward Cove, AK",55.402,-131.729
+814,FGBL1,Station FGBL1 - High Island 334,28.118,-93.67
+815,46044,Station 46044,36.7,-122.378
+816,46091,Station 46091 - MBM0,36.835,-121.899
+817,46092,Station 46092 - MBM1,36.751,-122.029
+818,46093,Station 46093 - MBM2,36.69,-122.41
+819,62090,Station 62090 - M1 - 50 NM West of Aran Islands,53.127,-11.2
+820,62091,Station 62091 - M2 - 20 NM East of Lambay,53.469,-5.418
+821,62092,Station 62092 - M3 - 30 NM Southwest of Mizen Head,51.13,-10.33
+822,62093,Station 62093 - M4 - Donegal Bay,55,-10
+823,62094,Station 62094 - M5 - South East,51.41,-6.42
+824,62095,Station 62095 - M6 - West Coast,53.04,-15.53
+825,41096,Station 41096 - North of Guadeloupe,16.533,-61.404
+826,41097,"Station 41097 - Fort-de-France, Martinique",14.48,-61.096
+827,41098,Station 41098 - North of Martinique,14.894,-61.113
+828,41100,Station 41100 - East of Guadeloupe,15.9,-57.883
+829,41101,Station 41101 - East of Martinique,14.6,-56.201
+830,41300,Station 41300 - West Indies,15.85,-57.467
+831,61001,Station 61001 - Nice Buoy,43.4,7.8
+832,61002,Station 61002 - Lion Buoy,42.102,4.703
+833,62052,Station 62052,48.5,-5.6
+834,62027,"Station 62027 - Jersey Buoy, English Channel - 5 nm south of Jersey, UK",49.082,-2.218
+835,45023,"Station 45023 - North Entry Buoy, North Keweenaw Peninsula, MI",47.27,-88.607
+836,45025,"Station 45025 - South Entry Buoy, South Keweenaw Peninsula, MI",46.969,-88.398
+837,45175,"Station 45175 - Mackinac Straits West, Mackinaw City, MI",45.825,-84.772
+838,45194,"Station 45194 - McGulpin Point North, MI (253)",45.804,-84.792
+839,GOM01,Station GOM01 - Mississippi State University Wave Glider - GOM01,24.899,-83.868
+840,MSG10,Station MSG10 - Mississippi State University Wave Glider - MSG10,28.184,-83.956
+841,MSG12,Station MSG12 - Mississippi State University Wave Glider - MSG12,26.006,-83.991
+842,MSG14,Station MSG14 - Mississippi State University Wave Glider - MSG14,27.487,-83.987
+843,MLSC1,"Station MLSC1 - Moss Landing, South Harbor, CA",36.802,-121.791
+844,44022,Station 44022 - Execution Rocks,40.883,-73.728
+845,44039,Station 44039 - Central Long Island Sound,41.138,-72.655
+846,44040,Station 44040 - Western Long Island Sound,40.956,-73.58
+847,44060,Station 44060 - Eastern Long Island Sound,41.263,-72.067
+848,LDLC3,"Station LDLC3 - New London Ledge Light, New London Harbor, CT",41.306,-72.077
+849,23401,"Station 23401 - BAY OF BENGAL - 600 NM WNW of Phuket, Thailand",8.86,88.55
+850,23461,"Station 23461 - ANDAMAN SEA - 180 NM NW of Phuket, Thailand",9.541,95.668
+851,ACFS1,"Station ACFS1 - Grove Plantation, ACE Basin Reserve, SC",32.664,-80.413
+852,ACQS1,"Station ACQS1 - St. Pierre, ACE Basin Reserve, SC",32.523,-80.357
+853,ACXS1,"Station ACXS1 - Bennett's Point, ACE Basin Reserve, SC",32.559,-80.454
+854,ANMN6,"Station ANMN6 - Field Station, Hudson River Reserve, NY",42.018,-73.917
+855,ANRN6,"Station ANRN6 - Tivoli South Bay, Hudson River Reserve, NY",42.027,-73.926
+856,APQF1,"Station APQF1 - East Bay Bottom, Apalachicola Reserve, FL",29.786,-84.875
+857,APXA2,"Station APXA2 - Anchor Point, Kachemak Bay Reserve, AK",59.77,-151.868
+858,APXF1,"Station APXF1 - East Bay, Apalachicola Reserve, FL",29.769,-84.881
+859,BGXN3,"Station BGXN3 - Greenland, Great Bay Reserve, NH",43.059,-70.83
+860,BILW3,"Station BILW3 - Barker's Island, Lake Superior Reserve, WI",46.722,-92.064
+861,BRIM2,"Station BRIM2 - Railroad, Chesapeake Bay Reserve, MD",38.781,-76.714
+862,BSLM2,"Station BSLM2 - Jug Bay, Chesapeake Bay Reserve, MD",38.781,-76.708
+863,BVQW1,"Station BVQW1 - Bayview Channel - Padilla Bay, WA",48.496,-122.501
+864,CHNO3,"Station CHNO3 - South Slough Reserve, OR",43.345,-124.329
+865,CHQO3,"Station CHQO3 - Winchester Arm - South Slough, OR",43.282,-124.32
+866,CVQV2,"Station CVQV2 - Sweethall Pier, Chesapeake Bay Reserve, VA",37.571,-76.884
+867,CWQO3,"Station CWQO3 - Charleston Bridge, South Slough Reserve, OR",43.338,-124.321
+868,CWQT2,"Station CWQT2 - Copano Bay East, Mission-Aransas Reserve, TX",28.132,-97.034
+869,DBQS1,"Station DBQS1 - Debidue Creek - North Inlet - Winyah Bay, SC",33.36,-79.167
+870,DEQD1,"Station DEQD1 - Lebanon Landing, Delaware Reserve, DE",39.114,-75.499
+871,DRSD1,"Station DRSD1 - Saint Jones River, Delaware Reserve, DE",39.089,-75.437
+872,EAZC1,"Station EAZC1 - Azevedo Pond, Elkhorn Slough Reserve, CA",36.846,-121.754
+873,EHSC1,"Station EHSC1 - North Marsh, Elkhorn Slough Reserve, CA",36.835,-121.738
+874,ELQC1,"Station ELQC1 - South Marsh, Elkhorn Slough Reserve, CA",36.818,-121.739
+875,ELXC1,"Station ELXC1 - Caspian Weather Station, Elkhorn Slough Reserve, CA",36.815,-121.738
+876,EVMC1,"Station EVMC1 - Vierra Mouth, Elkhorn Slough Reserve, CA",36.811,-121.779
+877,FFFC1,Station FFFC1 - First Mallard,38.195,-122.033
+878,GBHM6,"Station GBHM6 - Bayou Heron, Grand Bay Reserve, MS",30.418,-88.405
+879,GBQN3,"Station GBQN3 - Oyster River, Great Bay Reserve, NH",43.134,-70.911
+880,GBRM6,"Station GBRM6 - Grand Bay NERR, Mississippi Sound, MS (NOS 8740166)",30.413,-88.403
+881,GDQM6,"Station GDQM6 - Bangs Lake, Grand Bay Reserve, MS",30.357,-88.463
+882,GDWV2,"Station GDWV2 - Goodwin Island, Chesapeake Bay Reserve, VA",37.216,-76.393
+883,GDXM6,"Station GDXM6 - Crooked Bayou, Grand Bay Reserve, MS",30.359,-88.42
+884,GGGC1,Station GGGC1 - Gallinas Creek,38.016,-122.509
+885,GTQF1,"Station GTQF1 - Pellicer Creek, Guan Tolomato Matanzas Reserve, FL",29.667,-81.257
+886,GTXF1,"Station GTXF1 - Pellicer Creek, Guana Tolomato Matanzas Reserve, FL",29.658,-81.233
+887,HBMN6,"Station HBMN6 - Bear Mountain, Hudson River Reserve, NY",41.314,-73.985
+888,HMRA2,"Station HMRA2 - Homer, Kachemak Bay Reserve, AK",59.601,-151.41
+889,HUQN6,"Station HUQN6 - Tivoli North, Hudson River Reserve, NY",42.036,-73.925
+890,JCQN4,"Station JCQN4 - Chestnut Neck, Jacques Cousteau Reserve, NJ",39.548,-74.461
+891,JCRN4,"Station JCRN4 - Nacote Creek, Jacques Cousteau Reserve, NJ",39.535,-74.464
+892,JCTN4,"Station JCTN4 - Buoy 126, Jacques Cousteau Reserve, NJ",39.508,-74.338
+893,JOBP4,"Station JOBP4 - Station 9, Jobos Bay Reserve, PR",17.944,-66.238
+894,JOQP4,"Station JOQP4 - Station 20, Jobos Bay Reserve, PR",17.93,-66.211
+895,JOXP4,"Station JOXP4 - Jobos Bay Weather, Jobos Bay Reserve, PR",17.956,-66.223
+896,KCHA2,"Station KCHA2 - Homer Dolphin Deep, Kachemak Bay Reserve, AK",59.602,-151.409
+897,LTQM2,"Station LTQM2 - Otter Point Creek, Chesapeake Bay Reserve, MD",39.451,-76.275
+898,MAQT2,"Station MAQT2 - Aransas Bay, Mission-Aransas Reserve, TX",27.98,-97.029
+899,MAXT2,"Station MAXT2 - Copano East, Mission-Aransas Reserve, TX",28.132,-97.034
+900,MIST2,"Station MIST2 - Ship Channel, Mission-Aransas Reserve, TX",27.838,-97.05
+901,MQMT2,"Station MQMT2 - Mesquite Bay, Mission-Aransas Reserve, TX",28.138,-96.829
+902,MWQT2,"Station MWQT2 - Ship Channel, Mission-Aransas Reserve, TX",27.838,-97.05
+903,NAQR1,"Station NAQR1 - T-Wharf Bottom, Narragansett Bay Reserve, RI",41.578,-71.321
+904,NAXR1,"Station NAXR1 - Potters Cove, Narragansett Bay Reserve, RI",41.637,-71.339
+905,NIQS1,"Station NIQS1 - Oyster Landing, North Inlet-Winyah Bay Reserve, SC",33.349,-79.189
+906,NIWS1,"Station NIWS1 - Oyster Landing, North Inlet-Winyah Bay Reserve, SC",33.349,-79.189
+907,NOQN7,"Station NOQN7 - Research Creek, North Carolina Reserve, NC",34.156,-77.85
+908,NOXN7,"Station NOXN7 - Research Creek, North Carolina Reserve, NC",34.155,-77.851
+909,NPQN6,"Station NPQN6 - Norrie Point, Hudson River Reserve, NY",41.832,-73.942
+910,NPXN6,"Station NPXN6 - Norrie Point, Hudson River Reserve, NY",41.831,-73.942
+911,OWDO1,"Station OWDO1 - Darrow Road, Old Woman Creek Reserve, OH",41.365,-82.505
+912,OWQO1,"Station OWQO1 - Lower Estuary, Old Woman Creek Reserve, OH",41.382,-82.514
+913,OWSO1,"Station OWSO1 - State Road 6, Old Woman Creek Reserve, OH",41.383,-82.514
+914,OWXO1,"Station OWXO1 - Old Woman Creek, Old Woman Creek Reserve, OH",41.378,-82.508
+915,PBFW1,"Station PBFW1 - Padilla Bay Farm, Padilla Bay Reserve, WA",48.464,-122.469
+916,PBLW1,"Station PBLW1 - Ploeg Channel, Padilla Bay Reserve, WA",48.556,-122.53
+917,PKBW3,"Station PKBW3 - Pokegama Bay, Lake Superior Reserve, WI",46.672,-92.136
+918,RKQF1,"Station RKQF1 - Lower Henderson Creek, Rookery Bay Reserve, FL",26.027,-81.734
+919,RKXF1,"Station RKXF1 - Upper Henderson Creek, Rookery Bay Reserve, FL",26.05,-81.701
+920,RYEC1,Station RYEC1 - Second Mallard,38.184,-122.014
+921,SAQG1,"Station SAQG1 - Lower Duplin, Sapelo Island Reserve, GA",31.418,-81.296
+922,SAXG1,"Station SAXG1 - Marsh Island, Sapelo Island Reserve, GA",31.418,-81.296
+923,SCLD1,"Station SCLD1 - Scotton Landing, Delaware Reserve, DE",39.085,-75.461
+924,SCQC1,"Station SCQC1 - China Camp, San Francisco Bay Reserve, CA",38.001,-122.46
+925,SCQN6,"Station SCQN6 - Stony Creek, Hudson River Reserve, NY",42.046,-73.911
+926,SEQA2,"Station SEQA2 - Seldovia Deep, Katchemak Bay Reserve, AK",59.441,-151.721
+927,SFXC1,"Station SFXC1 - Rush Ranch, San Francisco Bay Reserve, CA",38.2,-122.026
+928,SKQN6,"Station SKQN6 - Saw Kill, Hudson River Reserve, NY",42.017,-73.915
+929,SLOO3,"Station SLOO3 - Elliot Creek - South Slough Reserve, OR",43.296,-124.311
+930,SNTO3,"Station SNTO3 - Tom's Creek, South Slough Reserve, OR",43.279,-124.318
+931,SOQO3,"Station SOQO3 - Valino Island, South Slough Reserve, OR",43.317,-124.322
+932,TCSV2,"Station TCSV2 - Taskinas Creek, Chesapeake Bay Reserve, VA",37.415,-76.714
+933,TIQC1,"Station TIQC1 - Oneonta Slough, Tijuana River Reserve, CA",32.568,-117.131
+934,TIXC1,"Station TIXC1 - Tidal Linkage, Tijuana River Reserve, CA",32.575,-117.127
+935,TKPN6,"Station TKPN6 - Turkey Point Hudson River NERRS, NY (NOS 8518962)",42.014,-73.939
+936,WAQM3,"Station WAQM3 - Menauhant, Waquoit Bay Reserve, MA",41.552,-70.549
+937,WAXM3,"Station WAXM3 - Carriage House, Waquoit Bay Reserve, MA",41.582,-70.525
+938,WBYA1,"Station WBYA1 - 8732828 - Weeks Bay, Mobile Bay, AL",30.417,-87.825
+939,WEBM1,"Station WEBM1 - Webhannett River Inlet, Wells Reserve, ME",43.32,-70.563
+940,WELM1,"Station WELM1 - 8419317 - Wells, ME",43.32,-70.563
+941,WEQM1,"Station WEQM1 - Skinner Mill, Wells Reserve, ME",43.345,-70.549
+942,WEXM1,"Station WEXM1 - Laudholm Farm, Wells Reserve, ME",43.337,-70.549
+943,WKQA1,"Station WKQA1 - Fish River, Weeks Bay Reserve, AL",30.417,-87.823
+944,WKXA1,"Station WKXA1 - Safe Harbor Met Station, Weeks Bay Reserve, AL",30.421,-87.828
+945,WYBS1,"Station WYBS1 - Winyah Bay Bottom, North Inlet-Winyah Bay Reserve, SC",33.309,-79.289
+946,WYSS1,"Station WYSS1 - Winyah Bay Surface, North Inlet-Winyah Bay Reserve, SC",33.309,-79.289
+947,YRSV2,"Station YRSV2 - Taskinas Creek, Chesapeake Bay Reserve, VA",37.414,-76.712
+948,ZBQN7,"Station ZBQN7 - Zeke's Basin, North Carolina",33.955,-77.935
+949,23218,Station 23218 - Bay of Bengal IN4,10.165,88.5
+950,23220,Station 23220 - Bay of Bengal,14.433,89.333
+951,23223,Station 23223 - Bay of Bengal,17.333,89.483
+952,23225,Station 23225,18.63,67.18
+953,23226,Station 23226 - Arabian Sea,20.2,67.333
+954,LPWA2,"Station LPWA2 - Little Port Walter, AK",56.388,-134.637
+955,NBBA3,Station NBBA3 - Lake Mead - North Boulder Basin,36.087,-114.728
+956,NLMA3,Station NLMA3 - Lake Mohave - North,35.458,-114.666
+957,SBBN2,Station SBBN2 - Lake Mead - South Boulder Basin,36.05,-114.748
+958,SLMN2,Station SLMN2 - Lake Mohave - South,35.389,-114.621
+959,VBBA3,Station VBBA3 - Lake Mead - Virgin Basin,36.132,-114.412
+960,45183,Station 45183 - Sleeping Bear Dunes,44.982,-85.831
+961,46260,"Station 46260 - Lakeside, OR (231)",43.586,-124.29
+962,46261,"Station 46261 - Reedsport, OR (232)",43.76,-124.225
+963,46263,"Station 46263 - Fort Bragg South, CA (235)",39.37,-123.912
+964,46264,"Station 46264 - Kodiak, AK (236)",57.479,-151.695
+965,SECG1,Station SECG1 - U.S. Navy Tower R4 GA,30.8,-80.316
+966,AGXC1,"Station AGXC1 - 9410647 - Angels Gate, CA",33.716,-118.246
+967,BAXC1,Station BAXC1 - 9410691 - Los Angeles Badger Avenue Bridge,33.766,-118.24
+968,BDRN4,"Station BDRN4 - 8539094 - Burlington, Delaware River, NJ",40.082,-74.87
+969,BDSP1,"Station BDSP1 - 8546252 - Bridesburg, PA",39.98,-75.079
+970,BGNN6,"Station BGNN6 - 8519483 - Bergen Point West Reach, NY",40.639,-74.146
+971,BKBF1,"Station BKBF1 - 8720357 - I-295 Buckman Bridge, St Johns River, FL",30.192,-81.692
+972,BLIF1,"Station BLIF1 - 8720233 - Blount Island Command, St Johns River, FL",30.393,-81.523
+973,BLTM3,"Station BLTM3 - 8447387 - Borden Flats Light at Fall River, MA",41.704,-71.174
+974,BRND1,"Station BRND1 - 8555889 - Brandywine Shoal Light, DE",38.987,-75.113
+975,CHCM2,"Station CHCM2 - 8573927 - Chesapeake City, MD",39.527,-75.81
+976,CHYV2,"Station CHYV2 - 8638999 - Cape Henry, VA",36.926,-76.007
+977,COVM2,"Station COVM2 - 8577018 - Cove Point LNG Pier, MD",38.402,-76.385
+978,CPMW1,"Station CPMW1 - 9449419 - Cherry Point South Dock Met, WA",48.86,-122.756
+979,CPNW1,Station CPNW1 - 9449427 - Cherry Point North Dock Met,48.863,-122.758
+980,CPTR1,"Station CPTR1 - 8452944 - Conimicut Light, RI",41.717,-71.345
+981,CPVM2,"Station CPVM2 - 8575437 - Chesapeake Bay Bridge Visibility, MD",38.995,-76.388
+982,CRYV2,"Station CRYV2 - 8638595 - South Craney Island, VA",36.888,-76.338
+983,DELD1,"Station DELD1 - 8551762 - Delaware City, DE",39.582,-75.589
+984,DMSF1,"Station DMSF1 - 8720219 - Dames Point, FL",30.387,-81.559
+985,DOMV2,"Station DOMV2 - 8638511 - Dominion Terminal Associates, VA",36.962,-76.424
+986,DPXC1,"Station DPXC1 - 9415141 - Davis Point, San Pablo Bay, CA",38.056,-122.264
+987,EBEF1,"Station EBEF1 - 8726674 - East Bay, FL",27.923,-82.421
+988,EINL1,"Station EINL1 - 8764314 - North of Eugene Island, LA",29.373,-91.384
+989,FMOA1,"Station FMOA1 - 8734673 - Fort Morgan, AL",30.228,-88.024
+990,FRVM3,"Station FRVM3 - 8447386 - Fall River, MA",41.704,-71.164
+991,FRXM3,"Station FRXM3 - 8447412 - Fall River Visibility, MA",41.696,-71.18
+992,FSKM2,"Station FSKM2 - 8574728 - Francis Scott Key Bridge, MD",39.219,-76.528
+993,FSNM2,"Station FSNM2 - 8574729 - Francis Scott Key Bridge NE Tower, MD",39.219,-76.525
+994,GCTF1,"Station GCTF1 - 8726524 - Gadsden Cut, Tampa Bay, FL",27.774,-82.517
+995,HIVT2,Station HIVT2 - Harbor Island Visibility,27.844,-97.07
+996,LNDC1,"Station LNDC1 - 9414763 - Oakland Berth 67, CA",37.795,-122.281
+997,LTJF1,"Station LTJF1 - 8720228 - Little Jetties, St. Johns River, FL",30.379,-81.446
+998,MBPA1,"Station MBPA1 - 8736163 - Middle Bay Port, Mobile Bay, AL",30.527,-88.086
+999,MCGA1,"Station MCGA1 - 8736897 - Coast Guard Sector Mobile, AL",30.649,-88.058
+1000,MHBT2,"Station MHBT2 - 8775283 - MODA, TX",27.828,-97.201
+1001,MHRN6,"Station MHRN6 - 8519532 - Mariners Harbor, NY",40.641,-74.162
+1002,MNPV2,"Station MNPV2 - 8639348 - Money Point, VA",36.778,-76.302
+1003,MRCP1,"Station MRCP1 - 8540433 - Marcus Hook, PA",39.809,-75.415
+1004,MTBF1,"Station MTBF1 - 8726412 - Middle Tampa Bay, FL",27.661,-82.594
+1005,MZXC1,"Station MZXC1 - 9415102 - Martinez-Amorco Pier, CA",38.035,-122.125
+1006,NBLP1,"Station NBLP1 - 8548989 - Newbold, PA",40.137,-74.752
+1007,NFDF1,"Station NFDF1 - 8720215 - Navy Fuel Depot, St Johns River, FL",30.4,-81.627
+1008,NWHC3,"Station NWHC3 - 8465705 - New Haven, CT",41.283,-72.908
+1009,OBXC1,"Station OBXC1 - 9414797 - Oakland Berth 38, CA",37.804,-122.341
+1010,OKXC1,"Station OKXC1 - 9414776 - Oakland Berth 34, CA",37.811,-122.333
+1011,OMHC1,"Station OMHC1 - 9414769 - Oakland Middle Harbor Met, CA",37.801,-122.33
+1012,OPTF1,"Station OPTF1 - 8726607 - Old Port Tampa, FL",27.858,-82.553
+1013,PEGF1,"Station PEGF1 - 8722956 - Port Everglades, FL",26.086,-80.116
+1014,PFDC1,"Station PFDC1 - 9410666 - Los Angeles Pier 400, CA",33.735,-118.241
+1015,PFXC1,"Station PFXC1 - 9410670 - Los Angeles Pier F, CA",33.747,-118.215
+1016,PILL1,"Station PILL1 - 8760721 - Pilottown, LA",29.179,-89.259
+1017,PMAF1,"Station PMAF1 - 8726384 - Port Manatee, FL",27.638,-82.562
+1018,PPTM2,"Station PPTM2 - 8578240 - Piney Point, MD",38.134,-76.533
+1019,PPXC1,"Station PPXC1 - 9414847 - Point Potrero, Richmond, CA",37.906,-122.365
+1020,PRJC1,"Station PRJC1 - 9410665 - Los Angeles Pier J, CA",33.733,-118.186
+1021,PRUR1,"Station PRUR1 - 8452314 - Sandy Point, Prudence Island, RI",41.605,-71.304
+1022,PSBC1,"Station PSBC1 - 9415115 - Pittsburg (Suisun Bay), CA",38.04,-121.887
+1023,PSXC1,Station PSXC1 - 9410692 - Los Angeles Pier S,33.768,-118.226
+1024,PTBM6,"Station PTBM6 - 8741003 - Petit Bois Island, Port of Pascagoula, MS",30.213,-88.505
+1025,PTCR1,"Station PTCR1 - 8452951 - Potter Cove, Prudence Island, RI",41.638,-71.34
+1026,PTOA1,"Station PTOA1 - 8737005 - Pinto Island, AL",30.671,-88.031
+1027,PVDR1,"Station PVDR1 - 8453662 - Providence Visibility, RI",41.786,-71.383
+1028,PXAC1,"Station PXAC1 - 9410690 - Los Angeles Berth 161, CA",33.764,-118.265
+1029,PXOC1,"Station PXOC1 - 9414311 - San Francisco Pier 1, CA",37.798,-122.393
+1030,PXSC1,"Station PXSC1 - 9414296 - Pier 17, San Francisco Bay, CA",37.803,-122.397
+1031,QPTR1,"Station QPTR1 - 8454049 - Quonset Point, RI",41.586,-71.407
+1032,RCMC1,"Station RCMC1 - 9414863 - Richmond, CA",37.923,-122.41
+1033,ROBN4,"Station ROBN4 - 8530973 - Robbins Reef, NJ",40.657,-74.065
+1034,RPLV2,"Station RPLV2 - 8632837 - Rappahannock Light, VA",37.538,-76.014
+1035,RTYC1,"Station RTYC1 - 9414523 - Redwood City, CA",37.507,-122.212
+1036,SJSN4,"Station SJSN4 - 8537121 - Ship John Shoal, NJ",39.305,-75.377
+1037,SKCF1,"Station SKCF1 - 8726671 - Sparkman Channel Entrance, FL",27.921,-82.445
+1038,SWPM4,"Station SWPM4 - 9076070 - S.W. Pier, MI",46.501,-84.372
+1039,TCBM2,"Station TCBM2 - 8573364 - Tolchester Beach, MD",39.213,-76.244
+1040,TCMW1,"Station TCMW1 - 9446482 - Tacoma Met, WA",47.276,-122.418
+1041,TCNW1,"Station TCNW1 - 9446484 - Tacoma, WA",47.267,-122.413
+1042,TLVT2,"Station TLVT2 - 8775285 - Tule Lake Visibility, TX",27.819,-97.454
+1043,TPAF1,"Station TPAF1 - 8726694 - TPA Cruise Terminal 2, Tampa, FL",27.933,-82.433
+1044,TSHF1,"Station TSHF1 - 8726679 - East Bay Causeway, FL",27.929,-82.426
+1045,TXVT2,"Station TXVT2 - 8775302 - TX State Aquarium Visibility, TX",27.813,-97.389
+1046,UPBC1,"Station UPBC1 - 9415118 - Union Pacific Rail Road Bridge, Martinez, CA",38.038,-122.121
+1047,UTVT2,"Station UTVT2 - UTMSI Visibility, TX 8775236",27.838,-97.052
+1048,VTBT2,Station VTBT2 - Viola Turning Basin,27.841,-97.52
+1049,WDSV2,"Station WDSV2 - 8638614 - Willoughby Deguassing Station, VA",36.977,-76.315
+1050,YKRV2,"Station YKRV2 - 8637611 - York River East Rear Range Light, VA",37.251,-76.342
+1051,28401,Station 28401 - Kuroshio Extension Observatory (KEO),32.384,144.54
+1052,48400,Station 48400 - Ocean Climate Station Papa,50.055,-144.873
+1053,44021,Station 44021 - Buoy D - New Meadows River,43.762,-69.988
+1054,44024,Station 44024 - Buoy N01 - Northeast Channel,42.325,-65.909
+1055,44029,Station 44029 - Buoy A01 - Massachusetts Bay,42.523,-70.566
+1056,44030,Station 44030 - Buoy B01 - Western Maine Shelf,43.179,-70.426
+1057,44031,Station 44031 - Buoy C0201 - Casco Bay,43.57,-70.06
+1058,44032,Station 44032 - Buoy E01 - Central Maine Shelf,43.715,-69.355
+1059,44033,Station 44033 - Buoy F01 - Penobscot Bay,44.055,-68.996
+1060,44034,Station 44034 - Buoy I01 - Eastern Maine Shelf,44.103,-68.112
+1061,44035,Station 44035 - Buoy J0201 - Cobscook Bay,44.89,-67.02
+1062,44036,Station 44036 - Buoy K0102 - Saint John,45.2,-66.02
+1063,44037,Station 44037 - Buoy M01 - Jordan Basin,43.497,-67.876
+1064,44038,Station 44038 - Buoy L0102 - Scotian Shelf,43.633,-66.55
+1065,45171,"Station 45171 - Granite Island Buoy, Granite Island, MI",46.724,-87.411
+1066,45172,"Station 45172 - Grand Marais Buoy, Grand Marais, MI",46.74,-85.98
+1067,45173,"Station 45173 - Munising Buoy, Munising, MI",46.573,-86.572
+1068,GRIM4,"Station GRIM4 - Granite Island, MI",46.721,-87.412
+1069,46094,"Station 46094 - Buoy NH-10 - West of Newport, OR",44.642,-124.3
+1070,46118,Station 46118 - Se'lhaem Bellingham Bay,48.724,-122.576
+1071,46119,Station 46119 - Cha'Ba La Push,47.967,-124.95
+1072,46128,"Station 46128 - Buoy CB-06 - West of Coos Bay, OR",43.292,-124.538
+1073,45020,"Station 45020 - Grand Traverse Bay South Buoy, MI",44.789,-85.604
+1074,AAMC1,"Station AAMC1 - 9414750 - Alameda, CA",37.772,-122.3
+1075,ACYN4,"Station ACYN4 - 8534720 - Atlantic City, NJ",39.357,-74.418
+1076,ADKA2,"Station ADKA2 - 9461380 - Adak Island, AK",51.861,-176.637
+1077,AGCM4,"Station AGCM4 - 9014070 - Algonac, MI",42.621,-82.527
+1078,ALIA2,"Station ALIA2 - 9457804 - Alitak, AK",56.898,-154.247
+1079,ALXN6,"Station ALXN6 - 8311062 - Alexandria Bay, NY",44.331,-75.934
+1080,AMRL1,"Station AMRL1 - 8764227 - LAWMA, Amerada Pass, LA",29.45,-91.338
+1081,ANTA2,"Station ANTA2 - 9455920 - Anchorage, AK",61.238,-149.89
+1082,ANVC1,"Station ANVC1 - 9416841 - Arena Cove, CA",38.915,-123.711
+1083,APAM2,"Station APAM2 - 8575512 - Annapolis, MD",38.983,-76.479
+1084,APCF1,"Station APCF1 - 8728690 - Apalachicola, FL",29.724,-84.98
+1085,APRP7,"Station APRP7 - 1630000 - Apra Harbor, Guam",13.444,144.657
+1086,ASTO3,"Station ASTO3 - 9439040 - Astoria, OR",46.207,-123.768
+1087,ATGM1,"Station ATGM1 - 8413320 - Bar Harbor, ME",44.392,-68.204
+1088,ATKA2,"Station ATKA2 - 9461710 - Atka, AK",52.232,-174.173
+1089,BARA9,"Station BARA9 - 9761115 - Barbuda, AG",17.591,-61.821
+1090,BATN6,"Station BATN6 - 8518750 - The Battery, NY",40.701,-74.014
+1091,BEPB6,"Station BEPB6 - 2695540 - Bermuda, St. Georges Island, BM",32.374,-64.701
+1092,BFTN7,"Station BFTN7 - 8656483 - Beaufort, NC",34.717,-76.671
+1093,BHBM3,"Station BHBM3 - 8443970 - Boston, MA",42.355,-71.05
+1094,BISM2,"Station BISM2 - 8571421 - Bishops Head, MD",38.22,-76.039
+1095,BKTL1,"Station BKTL1 - 8767961 - Lake Charles Bulk Terminal, LA",30.19,-93.301
+1096,BLTM2,"Station BLTM2 - 8574680 - Baltimore, MD",39.267,-76.579
+1097,BRHC3,"Station BRHC3 - 8467150 - Bridgeport, CT",41.174,-73.181
+1098,BUFN6,"Station BUFN6 - 9063020 - Buffalo, NY",42.878,-78.89
+1099,BYGL1,"Station BYGL1 - 8762482 - West Bank 1, Bayou Gauche, LA",29.789,-90.42
+1100,BZBM3,"Station BZBM3 - 8447930 - Woods Hole, MA",41.524,-70.671
+1101,CAMM2,"Station CAMM2 - 8571892 - Cambridge, MD",38.574,-76.069
+1102,CAPL1,"Station CAPL1 - 8768094 - Calcasieu Pass, LA",29.768,-93.343
+1103,CARL1,"Station CARL1 - 8761955 - Carrollton, LA",29.933,-90.135
+1104,CASM1,"Station CASM1 - 8418150 - Portland, ME",43.656,-70.246
+1105,CBBV2,"Station CBBV2 - 8638863 - Chesapeake Bay Bridge Tunnel, VA",36.967,-76.114
+1106,CCUF1,"Station CCUF1 - 8726413 - C-Cut, St. Petersburg, FL",27.663,-82.618
+1107,CECC1,"Station CECC1 - 9419750 - Crescent City, CA",41.746,-124.184
+1108,CFWM1,"Station CFWM1 - 8411060 - Cutler Farris Wharf, ME",44.657,-67.205
+1109,CHAO3,"Station CHAO3 - 9432780 - Charleston, OR",43.351,-124.337
+1110,CHAV3,"Station CHAV3 - 9751639 - Charlotte Amalie, VI",18.335,-64.92
+1111,CHBV2,"Station CHBV2 - 8638901 - Chesapeake Bay Bridge Tunnel, VA",37.032,-76.083
+1112,CHSV3,"Station CHSV3 - 9751364 - Christiansted Harbor, St. Croix, VI",17.748,-64.699
+1113,CHTM3,"Station CHTM3 - 8447435 - Chatham, MA",41.688,-69.95
+1114,CHTS1,"Station CHTS1 - 8665530 - Charleston, Cooper River Entrance, SC",32.781,-79.924
+1115,CHYW1,"Station CHYW1 - 9449424 - Cherry Point, WA",48.863,-122.759
+1116,CLBP4,"Station CLBP4 - 9752235 - Culebra, PR",18.301,-65.302
+1117,CMAN4,"Station CMAN4 - 8536110 - Cape May, NJ",38.968,-74.96
+1118,CMTI2,"Station CMTI2 - 9087044 - Calumet Harbor, IL",41.73,-87.538
+1119,CNDO1,"Station CNDO1 - 9063063 - Cleveland, OH",41.542,-81.637
+1120,CRVA2,"Station CRVA2 - 9454050 - Cordova, AK",60.558,-145.752
+1121,CTGM1,"Station CTGM1 - 8411250 - Cutler, ME",44.642,-67.297
+1122,CWBF1,"Station CWBF1 - 8726724 - Clearwater Beach, FL",27.978,-82.832
+1123,DKCM6,"Station DKCM6 - 8741501 - Dock C, Port of Pascagoula, MS",30.356,-88.567
+1124,DTLM4,"Station DTLM4 - 9075099 - De Tour Village, MI",45.993,-83.898
+1125,DUKN7,"Station DUKN7 - 8651370 - Duck Pier, NC",36.184,-75.746
+1126,DULM5,"Station DULM5 - 9099064 - Duluth, MN",46.776,-92.092
+1127,EBSW1,"Station EBSW1 - 9447130 - Seattle, WA",47.602,-122.338
+1128,ELFA2,"Station ELFA2 - 9452634 - Elfin Cove, AK",58.193,-136.347
+1129,EPTT2,"Station EPTT2 - 8771013 - Eagle Point, TX",29.481,-94.917
+1130,EREP1,Station EREP1 - 9063038 - Erie,42.172,-80.098
+1131,ERTF1,"Station ERTF1 - 8726669 - Berth 223 Met, FL",27.92,-82.442
+1132,ESPP4,"Station ESPP4 - 9752695 - Esperanza, Viequez Island, PR",18.094,-65.471
+1133,FAIO1,"Station FAIO1 - 9063053 - Fairport, OH",41.764,-81.281
+1134,FCGT2,"Station FCGT2 - 8772447 - USCG Freeport, TX",28.943,-95.302
+1135,FMRF1,"Station FMRF1 - 8725520 - Fort Myers, FL",26.647,-81.871
+1136,FOXR1,"Station FOXR1 - 8454000 - Providence, RI",41.807,-71.401
+1137,FPKG1,"Station FPKG1 - 8670870 - Fort Pulaski, GA",32.035,-80.903
+1138,FPTT2,"Station FPTT2 - 8772440 - Freeport, TX",28.948,-95.308
+1139,FRCB6,"Station FRCB6 - 2695535 - Bermuda, Ferry Reach Channel, BM",32.37,-64.695
+1140,FRDF1,"Station FRDF1 - 8720030 - Fernandina Beach, FL",30.675,-81.465
+1141,FRDW1,"Station FRDW1 - 9449880 - Friday Harbor, WA",48.545,-123.012
+1142,FREL1,"Station FREL1 - 8762484 - Frenier Landing, LA",30.106,-90.422
+1143,FRPS1,"Station FRPS1 - 8668498 - Fripps Inlet, SC",32.34,-80.46
+1144,FRWL1,"Station FRWL1 - 8766072 - Freshwater Canal Locks, LA",29.552,-92.305
+1145,FTGM4,"Station FTGM4 - 9014098 - Fort Gratiot, MI",43.007,-82.422
+1146,FTPC1,"Station FTPC1 - 9414290 - San Francisco, CA",37.806,-122.466
+1147,GBWW3,"Station GBWW3 - 9087077 - Green Bay West, WI",44.538,-88.003
+1148,GCVF1,"Station GCVF1 - 8720503 - Red Bay Point, St. Johns River, FL",29.982,-81.634
+1149,GDMM5,"Station GDMM5 - 9099090 - Grand Marais, MN",47.749,-90.341
+1150,GISL1,"Station GISL1 - 8761724 - Grand Isle, LA",29.265,-89.958
+1151,GNJT2,"Station GNJT2 - 8771341 - Galveston Bay Entrance (North Jetty), TX",29.357,-94.725
+1152,GPOM6,"Station GPOM6 - 8744707 - Gulfport Outer Range, MS",30.23,-88.982
+1153,GPST2,"Station GPST2 - 8771510 - Galveston Pleasure Pier, TX",29.285,-94.788
+1154,GTOT2,"Station GTOT2 - 8771450 - Galveston Pier 21, TX",29.311,-94.792
+1155,GWPM6,"Station GWPM6 - 8745651 - West Pier, Gulfport, MS",30.348,-89.087
+1156,HBYC1,"Station HBYC1 - 9418767 - North Spit, CA",40.767,-124.217
+1157,HCGN7,"Station HCGN7 - 8654467 - USCG Station Hatteras, NC",35.209,-75.704
+1158,HLNM4,"Station HLNM4 - 9087031 - Holland, MI",42.773,-86.213
+1159,HMDO3,"Station HMDO3 - 9439011 - Hammond NMFS Pier, OR",46.204,-123.951
+1160,HRBM4,"Station HRBM4 - 9075014 - Harbor Beach, MI",43.846,-82.643
+1161,HRVC1,"Station HRVC1 - 9411406 - Harvest Oil Platform, CA",34.469,-120.682
+1162,ICAC1,Station ICAC1 - 9410840 - Santa Monica Pier,34.008,-118.5
+1163,IIWC1,"Station IIWC1 - 9410172 - USS Midway South Navy Pier, San Diego, CA",32.714,-117.177
+1164,ILOH1,"Station ILOH1 - 1617760 - Hilo, HI",19.73,-155.056
+1165,ITKA2,"Station ITKA2 - 9451600 - Sitka, AK",57.052,-135.342
+1166,JMPN7,"Station JMPN7 - 8658163 - Johnny Mercer Pier, Wrightsville Beach, NC",34.213,-77.786
+1167,JNEA2,"Station JNEA2 - 9452210 - Juneau, AK",58.298,-134.411
+1168,JXUF1,"Station JXUF1 - 8720245 - Jacksonville University, FL",30.354,-81.612
+1169,KDAA2,"Station KDAA2 - 9457292 - Kodiak Island, AK",57.731,-152.511
+1170,KECA2,"Station KECA2 - 9450460 - Ketchikan, AK",55.331,-131.625
+1171,KGCA2,"Station KGCA2 - 9459881 - King Cove, AK",55.062,-162.327
+1172,KLIH1,"Station KLIH1 - 1615680 - Kahului, Kahului Harbor, HI",20.895,-156.469
+1173,KPTN6,"Station KPTN6 - 8516945 - Kings Point, NY",40.811,-73.765
+1174,KPTV2,"Station KPTV2 - 8632200 - Kiptopeke, VA",37.165,-75.988
+1175,KWHH1,"Station KWHH1 - 1617433 - Kawaihae, HI",20.037,-155.829
+1176,KWJP8,"Station KWJP8 - 1820000 - Kwajalein, Marshall Islands",8.732,167.734
+1177,KWNW3,"Station KWNW3 - 9087069 - Kewaunee MET, WI",44.465,-87.496
+1178,KYWF1,"Station KYWF1 - 8724580 - Key West, FL",24.556,-81.808
+1179,LABL1,"Station LABL1 - 8762372 - East Bank 1, Bayou LaBranch, LA",30.05,-90.368
+1180,LAMV3,"Station LAMV3 - 9751381 - Lameshur Bay, St John, VI",18.318,-64.724
+1181,LAPW1,"Station LAPW1 - 9442396 - La Push, WA",47.913,-124.637
+1182,LCLL1,"Station LCLL1 - 8767816 - Lake Charles, LA",30.224,-93.222
+1183,LDTM4,"Station LDTM4 - 9087023 - Ludington, MI",43.947,-86.441
+1184,LJAC1,"Station LJAC1 - 9410230 - La Jolla, CA",32.867,-117.257
+1185,LKWF1,"Station LKWF1 - 8722670 - Lake Worth Pier, FL",26.613,-80.034
+1186,LOPW1,"Station LOPW1 - 9440422 - Longview, WA",46.106,-122.954
+1187,LPNM4,"Station LPNM4 - 9075065 - Alpena, MI",45.063,-83.429
+1188,LTBV3,"Station LTBV3 - 9751401 - Lime Tree Bay, St. Croix, VI",17.695,-64.754
+1189,LTRM4,"Station LTRM4 - 9076033 - Little Rapids, MI",46.486,-84.302
+1190,LWSD1,"Station LWSD1 - 8557380 - Lewes, DE",38.783,-75.119
+1191,LWTV2,"Station LWTV2 - 8635750 - Lewisetta, VA",37.995,-76.465
+1192,MACM4,"Station MACM4 - 9075080 - Mackinaw City, MI",45.777,-84.721
+1193,MBET2,"Station MBET2 - 8773767 - Matagorda Bay Entrance Channel, TX",28.422,-96.327
+1194,MBRM4,"Station MBRM4 - 9014090 - Mouth of the Black River, MI",42.975,-82.419
+1195,MCGM4,"Station MCGM4 - 9099018 - Marquette C.G., MI",46.546,-87.379
+1196,MCYF1,"Station MCYF1 - 8726667 - McKay Bay Entrance, FL",27.914,-82.425
+1197,MEYC1,"Station MEYC1 - 9413450 - Monterey, CA",36.605,-121.889
+1198,MGIP4,"Station MGIP4 - 9759110 - Magueyes Islands, PR",17.97,-67.046
+1199,MGPT2,"Station MGPT2 - 8770613 - Morgans Point, TX",29.682,-94.985
+1200,MGZP4,"Station MGZP4 - 9759394 - Mayaguez, PR",18.218,-67.159
+1201,MISP4,"Station MISP4 - 9759938 - Mona Island, PR",18.09,-67.939
+1202,MNMM4,"Station MNMM4 - 9087088 - Menominee, MI",45.096,-87.59
+1203,MOKH1,"Station MOKH1 - 1612480 - Mokuoloe, HI",21.433,-157.79
+1204,MQTT2,"Station MQTT2 - 8775870 - Bob Hall Pier, Corpus Christi, TX",27.581,-97.217
+1205,MRHO1,"Station MRHO1 - 9063079 - Marblehead, OH",41.544,-82.731
+1206,MROS1,"Station MROS1 - 8661070 - Springmaid Pier, SC",33.656,-78.916
+1207,MTKN6,"Station MTKN6 - 8510560 - Montauk, NY",41.048,-71.959
+1208,MTYC1,"Station MTYC1 - 9413450 - Monterey, CA",36.605,-121.889
+1209,MYPF1,"Station MYPF1 - 8720218 - Mayport (Bar Pilots Dock), FL",30.398,-81.428
+1210,NCDV2,"Station NCDV2 - 8635027 - Dahlgren, VA",38.32,-77.037
+1211,NEAW1,"Station NEAW1 - 9443090 - Neah Bay, WA",48.367,-124.614
+1212,NIAN6,"Station NIAN6 - 9063012 - Niagara Intake, NY",43.077,-79.014
+1213,NJLC1,"Station NJLC1 - 9418768 - North Jetty Landing, CA",40.769,-124.239
+1214,NKTA2,"Station NKTA2 - 9455760 - Nikiski, AK",60.683,-151.399
+1215,NLNC3,"Station NLNC3 - 8461490 - New London, CT",41.361,-72.09
+1216,NMTA2,"Station NMTA2 - 9468756 - Nome, Norton Sound, AK",64.5,-165.43
+1217,NPSF1,"Station NPSF1 - 8725110 - Naples, FL",26.132,-81.807
+1218,NSTP6,"Station NSTP6 - 1770000 - Pago Pago, American Samoa",-14.28,-170.688
+1219,NTBC1,"Station NTBC1 - 9411340 - Santa Barbara, CA",34.405,-119.692
+1220,NTKM3,"Station NTKM3 - 8449130 - Nantucket Island, MA",41.285,-70.096
+1221,NWCL1,"Station NWCL1 - 8761927 - New Canal Station, LA",30.027,-90.113
+1222,NWPR1,"Station NWPR1 - 8452660 - Newport, RI",41.504,-71.326
+1223,NWWH1,"Station NWWH1 - 1611400 - Nawiliwili, HI",21.954,-159.353
+1224,OBGN6,"Station OBGN6 - 8311030 - Ogdensburg, NY",44.702,-75.494
+1225,OBLA1,"Station OBLA1 - 8737048 - Mobile State Docks, AL",30.705,-88.04
+1226,OCIM2,"Station OCIM2 - 8570283 - Ocean City Inlet, MD",38.328,-75.091
+1227,OHBC1,"Station OHBC1 - 9410660 - Los Angeles, CA",33.72,-118.273
+1228,OLSA2,"Station OLSA2 - 9462450 - Nikolski, AK",52.94,-168.87
+1229,OOUH1,"Station OOUH1 - 1612340 - Honolulu, HI",21.303,-157.865
+1230,ORIN7,"Station ORIN7 - 8652587 - Oregon Inlet Marina, NC",35.796,-75.548
+1231,OSGN6,"Station OSGN6 - 9052030 - Oswego, NY",43.464,-76.511
+1232,OVIA2,"Station OVIA2 - 9455500 - Seldovia, AK",59.44,-151.72
+1233,PACF1,"Station PACF1 - 8729108 - Panama City, FL",30.152,-85.667
+1234,PCBF1,"Station PCBF1 - 8729210 - Panama City Beach, FL",30.213,-85.88
+1235,PCLF1,"Station PCLF1 - 8729840 - Pensacola, FL",30.404,-87.211
+1236,PCOC1,"Station PCOC1 - 9415144 - Port Chicago, CA",38.056,-122.039
+1237,PGBP7,"Station PGBP7 - 1631428 - Pago Bay, Guam",13.428,144.796
+1238,PHBP1,"Station PHBP1 - 8545240 - Philadelphia, PA",39.933,-75.142
+1239,PLXA2,"Station PLXA2 - 9451054 - Port Alexander, AK",56.247,-134.647
+1240,PMOA2,"Station PMOA2 - 9463502 - Port Moller, AK",55.99,-160.562
+1241,PNLM4,"Station PNLM4 - 9087096 - Port Inland, MI",45.968,-85.869
+1242,PNLM6,"Station PNLM6 - 8741533 - Pascagoula NOAA Lab, MS",30.368,-88.563
+1243,PORO3,"Station PORO3 - 9431647 - Port Orford, OR",42.739,-124.498
+1244,PRDA2,"Station PRDA2 - 9497645 - Prudhoe Bay, AK",70.4,-148.527
+1245,PRYC1,"Station PRYC1 - 9415020 - Point Reyes, CA",37.996,-122.977
+1246,PSBM1,"Station PSBM1 - 8410140 - Eastport, ME",44.905,-66.983
+1247,PSLC1,"Station PSLC1 - 9412110 - Port San Luis, CA",35.169,-120.754
+1248,PSTL1,"Station PSTL1 - 8760922 - Pilot's Station East, SW Pass, LA",28.932,-89.407
+1249,PSTN6,"Station PSTN6 - 9063028 - Sturgeon Point, NY",42.691,-79.048
+1250,PTAW1,"Station PTAW1 - 9444090 - Port Angeles, WA",48.125,-123.441
+1251,PTIM4,"Station PTIM4 - 9099004 - Point Iroquois, MI",46.485,-84.631
+1252,PTIT2,"Station PTIT2 - 8779770 - Port Isabel, TX",26.061,-97.215
+1253,PTWW1,"Station PTWW1 - 9444900 - Port Townsend, WA",48.111,-122.76
+1254,RARM6,"Station RARM6 - 8741094 - Range A Rear, Port of Pascagoula, MS",30.343,-88.511
+1255,RCKM4,"Station RCKM4 - 9076024 - Rock Cut, MI",46.264,-84.191
+1256,RCPT2,"Station RCPT2 - 8774770 - Rockport, TX",28.024,-97.048
+1257,RCRN6,"Station RCRN6 - 9052058 - Rochester, NY",43.269,-77.626
+1258,RCYF1,"Station RCYF1 - 8720625 - Racy Point, St. Johns River, FL",29.8,-81.55
+1259,RDDA2,"Station RDDA2 - 9491094 - Red Dog Dock, AK",67.575,-164.067
+1260,RDYD1,"Station RDYD1 - 8551910 - Reedy Point, DE",39.558,-75.572
+1261,SAPF1,"Station SAPF1 - 8726520 - St. Petersburg, Tampa Bay, FL",27.761,-82.627
+1262,SBEO3,"Station SBEO3 - 9435380 - South Beach, OR",44.625,-124.045
+1263,SBLF1,"Station SBLF1 - 8726673 - Seabulk, Tampa, FL",27.923,-82.445
+1264,SBPT2,"Station SBPT2 - 8770570 - Sabine Pass North, TX",29.728,-93.87
+1265,SCIS1,"Station SCIS1 - 8664941 - South Capers Island, SC",32.857,-79.707
+1266,SDBC1,"Station SDBC1 - 9410170 - San Diego, CA",32.714,-117.174
+1267,SDHN4,"Station SDHN4 - 8531680 - Sandy Hook, NJ",40.467,-74.009
+1268,SHBL1,"Station SHBL1 - 8761305 - Shell Beach, LA",29.868,-89.673
+1269,SJNP4,"Station SJNP4 - 9755371 - San Juan, La Puntilla, San Juan Bay, PR",18.459,-66.116
+1270,SKTA2,"Station SKTA2 - 9452400 - Skagway, AK",59.45,-135.327
+1271,SLIM2,"Station SLIM2 - 8577330 - Solomons Island, MD",38.321,-76.452
+1272,SMOC1,"Station SMOC1 - 9410840 - Santa Monica, CA",34.008,-118.5
+1273,SNDA2,"Station SNDA2 - 9459450 - Sand Point, AK",55.336,-160.502
+1274,SNDP5,"Station SNDP5 - 1619910 - Sand Island, Midway Islands",28.215,-177.361
+1275,SWLA2,"Station SWLA2 - 9455090 - Seward, AK",60.12,-149.427
+1276,SWPV2,"Station SWPV2 - 8638610 - Sewells Point, VA",36.943,-76.329
+1277,TESL1,"Station TESL1 - 8764044 - Tesoro Marine Terminal, Berwick, Atchafalaya River, LA",29.668,-91.237
+1278,THRO1,"Station THRO1 - 9063085 - Toledo, OH",41.694,-83.473
+1279,TLBO3,"Station TLBO3 - 9437540 - Garibaldi, Tillamook Bay, OR",45.555,-123.919
+1280,TOKW1,"Station TOKW1 - 9440910 - Toke Point, WA",46.707,-123.967
+1281,TPBN4,"Station TPBN4 - 8538886 - Tacony-Palmyra Bridge, NJ",40.012,-75.043
+1282,TRDF1,"Station TRDF1 - 8721604 - Trident Pier, FL",28.416,-80.593
+1283,ULAM6,"Station ULAM6 - 8741041 - Dock E. Port of Pascagoula, MS",30.348,-88.505
+1284,ULRA2,"Station ULRA2 - 9468333 - Unalakleet, Unalakleet River, AK",63.872,-160.784
+1285,UNLA2,"Station UNLA2 - 9462620 - Unalaska, AK",53.88,-166.537
+1286,VAKF1,"Station VAKF1 - 8723214 - Virginia Key, FL",25.731,-80.162
+1287,VCAF1,"Station VCAF1 - 8723970 - Vaca Key, FL",24.711,-81.107
+1288,VCVA2,"Station VCVA2 - 9464212 - Village Cove, St. Paul Island, AK",57.125,-170.285
+1289,VDZA2,"Station VDZA2 - 9454240 - Valdez, AK",61.125,-146.361
+1290,WAHV2,"Station WAHV2 - 8631044 - Wachapreague, VA",37.608,-75.686
+1291,WAKP8,Station WAKP8 - 1890000 - Wake Island,19.291,166.618
+1292,WASD2,"Station WASD2 - 8594900 - Washington, DC",38.873,-77.021
+1293,WAVM6,"Station WAVM6 - 8747766 - Waveland, MS",30.282,-89.367
+1294,WLON7,"Station WLON7 - 8658120 - Wilmington, NC",34.228,-77.954
+1295,WNDV2,"Station WNDV2 - 8636580 - Windmill Point, VA",37.615,-76.29
+1296,WNEM4,"Station WNEM4 - 9076027 - West Neebish Island, MI",46.285,-84.21
+1297,WPTW1,"Station WPTW1 - 9441102 - Westport, WA",46.904,-124.105
+1298,WYCM6,"Station WYCM6 - 8747437 - Bay Waveland Yacht Club, MS",30.326,-89.326
+1299,YATA2,"Station YATA2 - 9453220 - Yakutat, Yakutat Bay, AK",59.548,-139.733
+1300,YKTV2,"Station YKTV2 - 8637689 - Yorktown USCG Training Center, VA",37.227,-76.479
+1301,46518,Station 46518 - Drifting Buoy,0,0
+1302,46531,Station 46531 - Drifting Buoy,0,0
+1303,46534,Station 46534 - Drifting Buoy,0,0
+1304,46538,Station 46538 - Drifting Buoy,0,0
+1305,46565,Station 46565 - Drifting Buoy,0,0
+1306,BLTA2,Station BLTA2 - Bartlett Cove AK,58.455,-135.889
+1307,CDEA2,"Station CDEA2 - Cape Decision, AK",56.001,-134.136
+1308,CRGA2,"Station CRGA2 - Craig, AK",55.474,-133.136
+1309,CSPA2,"Station CSPA2 - Cape Spencer, AK",58.199,-136.64
+1310,EROA2,"Station EROA2 - Eldred Rock, AK",58.971,-135.221
+1311,LCNA2,"Station LCNA2 - Lincoln Island, AK",56.058,-132.69
+1312,PBPA2,"Station PBPA2 - Point Bishop, AK",58.203,-134.148
+1313,PRTA2,"Station PRTA2 - Point Retreat, AK",58.411,-134.955
+1314,SDIA2,"Station SDIA2 - South Douglas, AK",58.277,-134.389
+1315,SISA2,"Station SISA2 - Sisters Island, AK",58.177,-135.259
+1316,18CY3,"Station 18CY3 - Michigan City, IN",41.73,-86.91
+1317,AGMW3,"Station AGMW3 - Algoma City Marina, WI",44.608,-87.433
+1318,BHRI3,"Station BHRI3 - Burns Harbor, IN",41.646,-87.147
+1319,BIGM4,"Station BIGM4 - Big Bay, MI",46.827,-87.727
+1320,BSBM4,"Station BSBM4 - Big Sable Point, MI",44.055,-86.514
+1321,CBRW3,"Station CBRW3 - Chambers Island, WI",45.198,-87.36
+1322,CLSM4,"Station CLSM4 - St. Clair Shores, MI",42.471,-82.877
+1323,CNII2,"Station CNII2 - Northerly Isle, IL",41.856,-87.609
+1324,CYGM4,"Station CYGM4 - Cheboygan Marina, MI",45.658,-84.464
+1325,FPTM4,"Station FPTM4 - Fairport, MI",45.619,-86.66
+1326,GBLW3,"Station GBLW3 - Green Bay Entrance Light, WI",44.653,-87.901
+1327,GRMM4,"Station GRMM4 - Grand Marais, MI",46.684,-85.972
+1328,GSLM4,"Station GSLM4 - Gravelly Shoal Light, MI",44.018,-83.537
+1329,GTLM4,"Station GTLM4 - Grand Traverse Light, MI",45.211,-85.55
+1330,GTRM4,"Station GTRM4 - Superior Grand Traverse Bay, MI",47.179,-88.241
+1331,KGNA,"Station KGNA - Bay of Grand Marais, MN",47.745,-90.346
+1332,KNSW3,"Station KNSW3 - Kenosha Light, Kenosha, WI",42.589,-87.809
+1333,KP53,"Station KP53 - Munising Lake Shore, MI",46.417,-86.65
+1334,KP58,"Station KP58 - Port Hope, MI",44.017,-82.8
+1335,KP59,"Station KP59 - Copper Harbor, MI",47.467,-87.883
+1336,LSCM4,"Station LSCM4 - Lake St. Clair Light, MI",42.465,-82.755
+1337,MEEM4,"Station MEEM4 - Manistee Harbor, MI",44.251,-86.342
+1338,NABM4,"Station NABM4 - Naubinway, MI",46.087,-85.444
+1339,NPDW3,"Station NPDW3 - Northport Pier at Death's Door, WI",45.291,-86.977
+1340,OTNM4,"Station OTNM4 - Ontonagon, MI",46.87,-89.33
+1341,PCLM4,"Station PCLM4 - Portage Canal, MI",47.276,-88.528
+1342,PNGW3,"Station PNGW3 - Port Wing, WI",46.792,-91.386
+1343,PRIM4,"Station PRIM4 - Presque Isle Light, MI",45.357,-83.492
+1344,PSCM4,"Station PSCM4 - Port Sanilac, MI",43.42,-82.54
+1345,PWAW3,"Station PWAW3 - Port Washington, WI",43.388,-87.867
+1346,SBLM4,"Station SBLM4 - Saginaw Bay Light #1, MI",43.81,-83.72
+1347,SJOM4,"Station SJOM4 - St. Joseph, MI",42.098,-86.494
+1348,SLVM5,"Station SLVM5 - Silver Bay, MN",47.278,-91.27
+1349,SPTM4,"Station SPTM4 - Sturgeon Point Light, MI",44.713,-83.273
+1350,SXHW3,"Station SXHW3 - Saxon Harbor, WI",46.563,-90.437
+1351,SYWW3,"Station SYWW3 - Yacht Works Sister Bay, WI",45.202,-87.121
+1352,TAWM4,"Station TAWM4 - Tawas Point, MI",44.254,-83.449
+1353,WFPM4,"Station WFPM4 - Whitefish Point, MI",46.76,-84.97
+1354,WHRI2,"Station WHRI2 - Waukegan Harbor, IL",42.361,-87.813
+1355,BARN6,"Station BARN6 - Barcelona Harbor, NY",42.345,-79.595
+1356,CBLO1,"Station CBLO1 - Conneaut Breakwater Light, OH",41.981,-80.556
+1357,CHDS1,"Station CHDS1 - Strom Thurmond Dam, SC",33.661,-82.199
+1358,CMPO1,"Station CMPO1 - Camp Perry, OH",41.547,-83.015
+1359,GELO1,"Station GELO1 - Geneva on the Lake Light, OH",41.859,-80.975
+1360,HHLO1,"Station HHLO1 - Huron Harbor Light, OH",41.401,-82.545
+1361,LMFS1,Station LMFS1 - Lake Murray SC,34.107,-81.271
+1362,LMSS1,"Station LMSS1 - Lake Marion, SC",33.552,-80.501
+1363,LORO1,"Station LORO1 - Lorain Harbor, OH",41.481,-82.195
+1364,NREP1,"Station NREP1 - Northeast Marina, PA",42.258,-79.792
+1365,OLCN6,"Station OLCN6 - Olcott Harbor, NY",43.341,-78.719
+1366,RPRN6,"Station RPRN6 - Rochester Coast Guard, NY",43.263,-77.598
+1367,WATS1,"Station WATS1 - Lake Wateree, SC",34.335,-80.702
+1368,YGNN6,"Station YGNN6 - Niagara Coast Guard Station, NY",43.262,-79.064
+1369,34002,Station 34002 - OOI Southern Ocean Buoy,-55,-90
+1370,44075,Station 44075 - OOI Pioneer Inshore Surface Mooring,40.363,-70.883
+1371,44076,Station 44076 - OOI Pioneer Central Surface Mooring,40.137,-70.775
+1372,44077,Station 44077 - OOI Pioneer Offshore Surface Mooring,39.94,-70.883
+1373,44078,Station 44078 - OOI Irminger Sea Surface Mooring,59.94,-39.52
+1374,46097,Station 46097 - OOI Newport Shelf,44.639,-124.304
+1375,46098,Station 46098 - OOI Waldport Offshore,44.381,-124.956
+1376,46099,Station 46099 - OOI Westport Shelf,46.986,-124.566
+1377,46100,Station 46100 - OOI Westport Offshore,46.851,-124.972
+1378,51045,"Station 51045 - Hilo Bay, HI",19.734,-155.082
+1379,51046,"Station 51046 - Kawaihai, HI",20.024,-155.828
+1380,51201,"Station 51201 - Waimea Bay, HI (106)",21.671,-158.117
+1381,51202,"Station 51202 - Mokapu Point, HI (098)",21.417,-157.68
+1382,51203,"Station 51203 - Kaumalapau, HI (146)",20.788,-157.01
+1383,51204,"Station 51204 - Barbers Point, HI #2 (165)",21.281,-158.124
+1384,51205,"Station 51205 - Pauwela, Maui, HI (187)",21.019,-156.422
+1385,51206,"Station 51206 - Hilo, Hawaii, HI (188)",19.779,-154.97
+1386,51207,"Station 51207 - Kaneohe Bay, HI (198)",21.477,-157.752
+1387,51208,"Station 51208 - Hanalei, Kauai, HI (202)",22.285,-159.574
+1388,51209,"Station 51209 - Aunuu, American Samoa (189)",-14.273,-170.5
+1389,51210,"Station 51210 - Kaneohe Bay, WETS, HI (225)",21.477,-157.756
+1390,51211,"Station 51211 - Pearl Harbor Entrance, HI (233)",21.297,-157.959
+1391,51212,"Station 51212 - Barbers Point, Kalaeloa, HI (238)",21.323,-158.149
+1392,51213,"Station 51213 - Kaumalapau Southwest, Lanai, HI (239)",20.75,-157.003
+1393,52200,"Station 52200 - Ipan, Guam (121)",13.354,144.788
+1394,52201,"Station 52201 - Kalo, Majuro, Marshall Islands (163)",7.083,171.392
+1395,52202,"Station 52202 - Ritidian Point, Guam (196)",13.682,144.806
+1396,52211,"Station 52211 - Tanapag, Saipan, NMI (197)",15.268,145.662
+1397,13001,Station 13001 - NE Extension,12,-23
+1398,13002,Station 13002 - NE Extension,21,-23
+1399,13008,Station 13008 - Reggae,15,-38
+1400,13009,Station 13009 - Lambada,8,-38
+1401,13010,Station 13010 - Soul,0,0
+1402,15001,Station 15001 - Gavotte,-10,-10
+1403,15002,Station 15002 - Java,0,-10
+1404,15006,Station 15006 - Valse,-6,-10
+1405,15007,Station 15007 - SE Extension,-6,8
+1406,31001,Station 31001 - Samba,0,-35
+1407,31002,Station 31002 - Frevo,4,-38
+1408,31003,Station 31003 - Para?ba,-8,-30
+1409,31004,Station 31004 - Salvador,-14,-32
+1410,31005,Station 31005 - Espirito Santo,-19,-34
+1411,31006,Station 31006 - NE Extension,4,-23
+1412,31007,Station 31007 - Jazz,0,-23
+1413,41026,Station 41026 - Forro,12,-38
+1414,41139,Station 41139,20,-38
+1415,62114,"Station 62114 - Tartan ""A"" AWS",58.3,0
+1416,62121,Station 62121 - Carrack AWS,53.5,2.7
+1417,62124,Station 62124 - Conwy,53.6,-3.6
+1418,62125,Station 62125,53.8,-3.5
+1419,62126,Station 62126,53.9,-3.6
+1420,62127,Station 62127 - Cleeton AWS,54,0.7
+1421,62130,Station 62130 - Brae A,58.7,1.3
+1422,62135,Station 62135 - Trent,54.2,1.6
+1423,62142,Station 62142 - North Sea,53,2.101
+1424,62144,Station 62144 - Clipper AWS,53.4,1.7
+1425,62145,Station 62145 - North Sea,53.102,2.8
+1426,62146,Station 62146 - Lomond AWS,57.2,2.1
+1427,62147,Station 62147 - Galaxy 111,55.7,4.7
+1428,62148,Station 62148 - Barque AWS,53.6,1.5
+1429,62149,"Station 62149 - West Sole ""A"" AWS",53.7,1.1
+1430,62150,Station 62150 - Amethyst AWS,53.6,0.7
+1431,62164,Station 62164 - Anasuria AWS,57.2,0.8
+1432,62165,Station 62165 - Ravenspurn North AWS,54,1.1
+1433,62166,Station 62166 - Thames,53,2.5
+1434,63105,"Station 63105 - Brent ""B"" AWS",61,1.692
+1435,63110,Station 63110 - Beryl A AWS,59.5,1.5
+1436,63112,Station 63112 - Cormorant AWS,61.1,1
+1437,63113,"Station 63113 - Brent ""A"" AWS",61,1.708
+1438,63115,Station 63115 - Magnus AWS,61.6,1.3
+1439,63117,Station 63117 - Eider AWS,61.4,1.1
+1440,AROP4,"Station AROP4 - 9757809 - Arecibo, PR",18.48,-66.702
+1441,AUDP4,"Station AUDP4 - 9759412 - Aquadilla, PR",18.457,-67.165
+1442,FRDP4,"Station FRDP4 - 9753216 - Fajardo, PR",18.335,-65.631
+1443,PLSP4,"Station PLSP4 - 9758053 - Penuelas, PR",17.973,-66.762
+1444,VQSP4,"Station VQSP4 - 9752619 - Isabel Segunda, Vieques Island, PR",18.153,-65.444
+1445,YABP4,"Station YABP4 - 9754228 - Yabucoa Harbor, PR",18.055,-65.833
+1446,45167,"Station 45167 - Erie Nearshore Buoy, Erie, PA",42.185,-80.135
+1447,14040,Station 14040,-8,67
+1448,14041,Station 14041,-8,55
+1449,14043,Station 14043,-12,67
+1450,14047,Station 14047,-4,57
+1451,23001,Station 23001,0,81
+1452,23003,Station 23003,-2,81
+1453,23004,Station 23004,0,90
+1454,23006,Station 23006,4,90
+1455,23007,Station 23007,8,90
+1456,23008,Station 23008,12,90
+1457,23009,Station 23009,15,90
+1458,23010,Station 23010,-4,81
+1459,23011,Station 23011,15,65
+1460,23012,Station 23012,8,67
+1461,23013,Station 23013,4,67
+1462,23014,Station 23014,2,67
+1463,23015,Station 23015,0,67
+1464,23016,Station 23016,-2,67
+1465,23017,Station 23017,-4,67
+1466,53005,Station 53005,-8,81
+1467,53006,Station 53006,-12,81
+1468,53009,Station 53009,-12,93
+1469,53040,Station 53040,-8,95
+1470,53056,Station 53056,-5,95
+1471,53057,Station 53057,-2,90
+1472,56053,Station 56053,-16,81
+1473,56055,Station 56055,-25,100
+1474,46233,Station 46233 - SCCOOS San Diego Mooring,32.936,-117.32
+1475,31201,"Station 31201 - Floripa, Brazil (109)",-27.705,-48.134
+1476,41108,"Station 41108 - Wilmington Harbor, NC - (200)",33.722,-78.016
+1477,41109,"Station 41109 - New River Inlet, NC - 190",34.484,-77.3
+1478,41112,"Station 41112 - Offshore Fernandina Beach, FL (132)",30.709,-81.292
+1479,41113,"Station 41113 - Cape Canaveral Nearshore, FL (143)",28.4,-80.533
+1480,41114,"Station 41114 - Fort Pierce, FL (134)",27.551,-80.217
+1481,41116,"Station 41116 - Oculina Bank North, FL (227)",28.523,-80.188
+1482,41118,"Station 41118 - Chester Shoal, FL (228)",28.609,-80.59
+1483,41120,"Station 41120 - Cape Hatteras East, NC (250)",35.259,-75.286
+1484,41140,"Station 41140 - Christiansted, St. Croix, Virgin Islands",17.769,-64.723
+1485,41141,"Station 41141 - Fareham, St. Croix, Virgin Islands",17.684,-64.635
+1486,42084,"Station 42084 - Southwest Pass Entrance W, LA (256)",28.988,-89.649
+1487,42091,"Station 42091 - Trinity Shoal, LA (255)",29.087,-92.506
+1488,42094,"Station 42094 - Grand Isle, LA (246)",29.085,-89.907
+1489,42099,"Station 42099 - Offshore St. Petersburg, FL (144)",27.349,-84.275
+1490,44088,"Station 44088 - Virginia Beach Offshore, VA (171)",36.611,-74.841
+1491,44094,"Station 44094 - Fire Island Nearshore, NY (207)",40.585,-73.106
+1492,44096,"Station 44096 - Cape Charles, VA (186)",37.023,-75.809
+1493,44097,"Station 44097 - Block Island, RI (154)",40.967,-71.126
+1494,44099,"Station 44099 - Cape Henry, VA (147)",36.915,-75.722
+1495,44100,"Station 44100 - Duck FRF 26m, NC (430)",36.258,-75.593
+1496,44172,"Station 44172 - Halifax Harbor, NS, Canada - 176",44.5,-63.408
+1497,46114,"Station 46114 - West Monterey Bay, CA (185)",36.7,-122.343
+1498,46211,"Station 46211 - Grays Harbor, WA (036)",46.857,-124.244
+1499,46212,"Station 46212 - Humboldt Bay South Spit, CA (128)",40.753,-124.313
+1500,46213,"Station 46213 - Cape Mendocino, CA (094)",40.295,-124.732
+1501,46214,"Station 46214 - Point Reyes, CA (029)",37.937,-123.463
+1502,46215,"Station 46215 - Diablo Canyon, CA (076)",35.204,-120.859
+1503,46216,"Station 46216 - Goleta Point, CA (107)",34.333,-119.803
+1504,46217,"Station 46217 - Anacapa Passage, CA (111)",34.167,-119.435
+1505,46218,"Station 46218 - Harvest, CA (071)",34.452,-120.78
+1506,46219,"Station 46219 - San Nicolas Island, CA (067)",33.219,-119.872
+1507,46220,"Station 46220 - El Porto, CA (125)",33.897,-118.446
+1508,46221,"Station 46221 - Santa Monica Bay, CA (028)",33.86,-118.641
+1509,46222,"Station 46222 - San Pedro, CA (092)",33.618,-118.317
+1510,46223,"Station 46223 - Dana Point, CA (096)",33.458,-117.767
+1511,46224,"Station 46224 - Oceanside Offshore, CA (045)",33.178,-117.472
+1512,46225,"Station 46225 - Torrey Pines Outer, CA (100)",32.933,-117.391
+1513,46226,"Station 46226 - Point La Jolla, CA (095)",32.848,-117.353
+1514,46227,"Station 46227 - Point Loma, CA (091)",32.632,-117.444
+1515,46228,"Station 46228 - Pitas Point, CA (130)",34.317,-119.417
+1516,46229,"Station 46229 - UMPQUA OFFSHORE, OR (139)",43.772,-124.549
+1517,46230,"Station 46230 - Huntington Beach Nearshore, CA (172)",33.623,-118.012
+1518,46231,"Station 46231 - Mission Bay, CA (093)",32.747,-117.37
+1519,46232,"Station 46232 - Point Loma South, CA (191)",32.517,-117.425
+1520,46234,"Station 46234 - Port Hueneme Nearshore, CA (141)",34.1,-119.168
+1521,46235,"Station 46235 - Imperial Beach Nearshore, CA (155)",32.57,-117.169
+1522,46236,"Station 46236 - Monterey Canyon Outer, CA (156)",36.76,-121.949
+1523,46237,"Station 46237 - San Francisco Bar, CA (142)",37.788,-122.632
+1524,46238,"Station 46238 - Santa Cruz Basin, CA (167)",33.76,-119.55
+1525,46239,"Station 46239 - Point Sur, CA (157)",36.335,-122.104
+1526,46240,"Station 46240 - Cabrillo Point, Monterey Bay, CA (158)",36.626,-121.907
+1527,46241,"Station 46241 - San Elijo Nearshore, CA (161)",33.003,-117.292
+1528,46242,"Station 46242 - Camp Pendleton Nearshore, CA (043)",33.22,-117.439
+1529,46243,"Station 46243 - Clatsop Spit, OR (162)",46.216,-124.128
+1530,46244,"Station 46244 - Humboldt Bay, North Spit, CA (168)",40.896,-124.357
+1531,46245,"Station 46245 - Ventura Nearshore, CA - 169",34.251,-119.308
+1532,46247,"Station 46247 - San Francisco Offshore, CA (180)",37.753,-122.833
+1533,46248,"Station 46248 - Astoria Canyon, OR (179)",46.133,-124.644
+1534,46249,"Station 46249 - Santa Cruz Island South, CA (182)",33.821,-119.708
+1535,46250,"Station 46250 - Point Mugu Offshore, CA - 184",34.034,-119.09
+1536,46251,"Station 46251 - Santa Cruz Basin, CA (203)",33.769,-119.565
+1537,46253,"Station 46253 - San Pedro South, CA (213)",33.576,-118.181
+1538,46254,"Station 46254 - SCRIPPS Nearshore, CA (201)",32.868,-117.267
+1539,46256,"Station 46256 - Long Beach Channel, CA (215)",33.7,-118.201
+1540,46257,"Station 46257 - Harvest Southeast, CA (216)",34.439,-120.766
+1541,46258,"Station 46258 - Mission Bay West, CA (220)",32.752,-117.501
+1542,46262,"Station 46262 - Santa Barbara Island North, CA (234)",33.704,-119.004
+1543,46267,"Station 46267 - Angeles Point, WA (248)",48.173,-123.607
+1544,46268,"Station 46268 - Topanga Nearshore, CA (103)",34.022,-118.578
+1545,46269,"Station 46269 - Point Santa Cruz, CA (254)",36.934,-122.034
+1546,46273,"Station 46273 - Torrey Pines Inner, CA (101)",32.926,-117.277
+1547,51200,"Station 51200 - Barbers Point, HI (164)",21.096,-158.303
+1548,52212,"Station 52212 - Ngaraard, Babeldaob, Palau (219)",7.63,134.667
+1549,LJPC1,"Station LJPC1 - La Jolla, CA (073)",32.867,-117.257
+1550,48211,Station 48211 - Camden Bay (Shell Arctic),70.37,-146.04
+1551,48212,Station 48212 - Harrison Bay (Shell Arctic),70.874,-150.279
+1552,48213,Station 48213 - Burger,71.502,-164.133
+1553,48214,Station 48214 - Klondike (MOB1),70.872,-165.248
+1554,48216,Station 48216 - Crackerjack (Shell Arctic),71.758,-167.952
+1555,46126,Station 46126 - Wide Bay (Shell),53.951,-166.602
+1556,48677,Station 48677,0,0
+1557,48678,Station 48678,0,0
+1558,48679,Station 48679,0,0
+1559,48680,Station 48680,0,0
+1560,CGCL1,Station CGCL1 - Cognac,28.791,-89.056
+1561,WDEL1,Station WDEL1 - Shell West Delta 143,28.662,-89.551
+1562,SKMG1,Station SKMG1 - U.S. Navy Tower M2R6 GA,31.534,-80.236
+1563,SPAG1,Station SPAG1 - U.S. Navy Tower R2 GA,31.375,-80.567
+1564,TYBG1,Station TYBG1 - U.S. Navy Tower R8 GA,31.633,-79.925
+1565,FBPS1,"Station FBPS1 - Folly Beach Pier, SC",32.652,-79.938
+1566,SMBS1,"Station SMBS1 - Springmaid pier, SC",33.655,-78.918
+1567,48215,Station 48215 - Hanna Shoal (MOB3),71.502,-164.133
+1568,ACMN4,"Station ACMN4 - Atlantic City Marina, NJ",39.38,-74.42
+1569,AVAN4,"Station AVAN4 - Avalon, NJ",39.09,-74.72
+1570,BRBN4,"Station BRBN4 - Brant Beach, NJ",39.61,-74.2
+1571,OCGN4,"Station OCGN4 - Ocean Grove, NJ",40.209,-74.004
+1572,SGRN4,"Station SGRN4 - Sea Girt, NJ",40.12,-74.03
+1573,44069,Station 44069 - Great South Bay,40.698,-73.087
+1574,45178,"Station 45178 - 1 NM SE of Valcour Island, NY",44.603,-73.394
+1575,45188,Station 45188 - Champlain Bridge Buoy,44.094,-73.423
+1576,45179,Station 45179 - Stannard Rock Buoy,47.195,-87.224
+1577,42043,Station 42043 - TGLO TABS Buoy B,28.982,-94.899
+1578,42044,Station 42044 - TGLO TABS Buoy J,26.191,-97.051
+1579,42045,Station 42045 - TGLO TABS Buoy K,26.217,-96.5
+1580,42046,Station 42046 - GERG Flower Gardens Buoy N,27.89,-94.037
+1581,42047,Station 42047 - GERG Flower Gardens Buoy V,27.897,-93.597
+1582,42048,Station 42048 - TABS D,27.939,-96.843
+1583,42049,Station 42049 - TABS W,28.351,-96.006
+1584,42050,Station 42050 - TABS F,28.842,-94.242
+1585,42051,Station 42051 - TABS R,29.635,-93.642
+1586,ANPT2,"Station ANPT2 - 8775241 - Aransas, Aransas Pass, TX",27.837,-97.039
+1587,AWRT2,"Station AWRT2 - 8774230 - Aransas Wildlife Refuge, TX",28.227,-96.796
+1588,BABT2,"Station BABT2 - 8776604 - Baffin Bay, TX",27.297,-97.405
+1589,BZST2,"Station BZST2 - 8779749 - SPI Brazos Santiago, TX",26.067,-97.155
+1590,CLLT2,"Station CLLT2 - 8770933 - Clear Lake, TX",29.563,-95.067
+1591,CPNT2,"Station CPNT2 - 8774513 - Copano Bay, TX",28.114,-97.024
+1592,EMAT2,"Station EMAT2 - 8773146 - Matagorda City, TX",28.71,-95.914
+1593,FPST2,"Station FPST2 - 8772471 - Freeport SPIP, TX",28.936,-95.294
+1594,GLPT2,Station GLPT2 - 021: Galveston Pleasure Pier; Gulf of Mexico,29.3,-94.794
+1595,GRRT2,"Station GRRT2 - 8771486 - Galveston RR Bridge, TX",29.302,-94.896
+1596,HIST2,"Station HIST2 - 8770808 - High Island, TX",29.595,-94.39
+1597,IRDT2,"Station IRDT2 - 8776139 - South Bird Island, TX",27.48,-97.322
+1598,LUIT2,"Station LUIT2 - 8771972 - San Luis Pass, TX",29.076,-95.122
+1599,LYBT2,"Station LYBT2 - 8770733 - Lynchburg Landing, TX",29.765,-95.079
+1600,NCHT2,"Station NCHT2 - 8770777 - Manchester, TX",29.726,-95.266
+1601,NGLT2,"Station NGLT2 - 8775283 - Port Ingleside, TX",27.822,-97.204
+1602,NUET2,"Station NUET2 - 8775244 - Nueces Bay, TX",27.832,-97.486
+1603,NWST2,Station NWST2 - 098: NWS Weather Station 1; Gulf of Mexico,27.75,-96.768
+1604,PACT2,"Station PACT2 - 8775792 - Packery Channel, TX",27.634,-97.237
+1605,PCGT2,"Station PCGT2 - 8779748 - South Padre Island CGS, TX",26.072,-97.167
+1606,PCNT2,"Station PCNT2 - 8773701 - Port O'Connor, Matagorda Bay, TX",28.446,-96.396
+1607,PMNT2,"Station PMNT2 - 8778490 - Port Mansfield, TX",26.559,-97.424
+1608,PORT2,"Station PORT2 - 8770475 - Port Arthur, TX",29.867,-93.931
+1609,RLIT2,"Station RLIT2 - 8779280 - Realitos Peninsula, TX",26.262,-97.285
+1610,RLOT2,"Station RLOT2 - 8770971 - Rollover Pass, TX",29.515,-94.513
+1611,RSJT2,"Station RSJT2 - 8777812 - Rincon del San Jose, TX",26.801,-97.471
+1612,RTAT2,"Station RTAT2 - 8775237 - Port Aransas, TX",27.84,-97.072
+1613,RTOT2,"Station RTOT2 - 100: RTNS Offshore, TX",27.753,-96.967
+1614,SDRT2,"Station SDRT2 - 8773037 - Seadrift, TX",28.407,-96.712
+1615,SGNT2,"Station SGNT2 - 8772985 - Sargent, TX",28.771,-95.617
+1616,TAQT2,"Station TAQT2 - 8775296 - USS Lexington, TX",27.815,-97.389
+1617,TXPT2,"Station TXPT2 - 8770822 - Texas Point, Sabine Pass, TX",29.689,-93.842
+1618,VCAT2,"Station VCAT2 - 8773259 - Port Lavaca, TX",28.64,-96.609
+1619,BPHF1,"Station BPHF1 - BISHOP HARBOR, FL",27.608,-82.571
+1620,FRKF1,"Station FRKF1 - Frog Creek, FL",27.591,-82.552
+1621,41117,"Station 41117 - St. Augustine, FL (194)",30,-81.08
+1622,42078,"Station 42078 - Big Pine Key, FL (237)",24.5,-81.251
+1623,42079,"Station 42079 - Bahia Honda Key, FL (242)",24.535,-81.242
+1624,42093,"Station 42093 - Grand Isle Outer, LA (247)",29.017,-89.832
+1625,42095,"Station 42095 - Satan Shoal, FL (244)",24.407,-81.967
+1626,42097,"Station 42097 - Pulley Ridge, FL (226)",25.701,-83.65
+1627,44056,"Station 44056 - Duck FRF, NC",36.2,-75.714
+1628,44089,"Station 44089 - Wallops Island, VA (224)",37.754,-75.325
+1629,44091,"Station 44091 - Barnegat, NJ (209)",39.768,-73.77
+1630,45180,"Station 45180 - Isle of Royale East, MI (230)",48.034,-87.73
+1631,46259,"Station 46259 - Santa Lucia Escarpment, CA (222)",34.767,-121.498
+1632,46266,"Station 46266 - Del Mar Nearshore, CA (153)",32.957,-117.279
+1633,BTHD1,"Station BTHD1 - Bethany Beach, DE",38.537,-75.046
+1634,FRFN7,"Station FRFN7 - USACE-CHL Field Research Facility, Duck, NC",36.19,-75.739
+1635,JPRN7,"Station JPRN7 - Jennette's Pier, Nags Head, NC",35.912,-75.587
+1636,OCSM2,"Station OCSM2 - Ocean City, MD",38.338,-75.07
+1637,44087,"Station 44087 - Thimble Shoal, VA (240)",37.025,-76.151
+1638,46252,"Station 46252 - Anacapa Passage South, CA (212)",33.953,-119.257
+1639,0Y2W3,"Station 0Y2W3 - Sturgeon Bay CG Station, WI",44.794,-87.313
+1640,18CI3,"Station 18CI3 - Michigan City CG Station, IN",41.73,-86.91
+1641,20CM4,"Station 20CM4 - St. Joseph CG Station, MI",42.09,-86.49
+1642,C58W3,"Station C58W3 - Two Rivers CG Station, WI",44.146,-87.563
+1643,62001,Station 62001 - Gascogne Buoy,45.23,-5
+1644,62028,"Station 62028 - Weymouth Bay, UK",50.59,-2.3
+1645,62029,Station 62029 - K1 Buoy,48.72,-12.43
+1646,62030,Station 62030 - L4 Buoy,50.25,-4.217
+1647,62050,Station 62050 - E1,50,-4.4
+1648,62081,Station 62081 - K2 Buoy,51,-13.55
+1649,62103,Station 62103 - Channel Lightship,49.9,-2.9
+1650,62105,Station 62105 - K4 Buoy,55.41,-11.81
+1651,62107,Station 62107 - Sevenstones Lightship,50.102,-6.1
+1652,62108,Station 62108 - K3 Buoy,53.5,-19.5
+1653,62163,Station 62163 - Brittany Buoy,47.55,-8.47
+1654,62170,Station 62170 - F3 Light Vessel,51.24,2
+1655,62298,Station 62298 - Celtic Sea Buoy,49.4,-8.6
+1656,62301,Station 62301 - Aberporth Buoy,52.22,-4.42
+1657,62303,Station 62303 - Pembroke Buoy,51.602,-5.1
+1658,62304,Station 62304 - Sandettie Lightship,51.102,1.8
+1659,62305,Station 62305 - Greenwich Lightship,50.4,0
+1660,62442,Station 62442 - Pap,49,-16.5
+1661,64045,Station 64045 - K5 Buoy,59.15,-11.79
+1662,64046,Station 64046 - K7 Buoy,60.483,-4.167
+1663,44086,"Station 44086 - Nags Head, NC (243)",36.001,-75.421
+1664,44095,"Station 44095 - Oregon Inlet, NC (192)",35.75,-75.33
+1665,44092,"Station 44092 - Isle of Shoals, NH (211)",42.942,-70.632
+1666,48012,Station 48012 - Point Lay (UAF),70.025,-166.071
+1667,BDXC1,"Station BDXC1 - Bodega, CA",38.317,-123.071
+1668,FPXC1,"Station FPXC1 - Fort Point, CA",37.807,-122.466
+1669,KNOH1,"Station KNOH1 - Kilo Nalu Observatory, Hawaii",21.288,-157.865
+1670,45186,"Station 45186 - Waukegan Buoy, IL",42.368,-87.795
+1671,45187,"Station 45187 - Winthrop Harbor Buoy, IL",42.491,-87.779
+1672,HPLM2,Station HPLM2 - Horn Point Weather Station MD,38.59,-76.133
+1673,45021,"Station 45021 - Traverse Bay #3, MI",45.048,-85.493
+1674,GTBM4,Station GTBM4 - Grand Traverse Bay Observing System Station 2,44.767,-85.607
+1675,45022,"Station 45022 - Little Traverse Bay Buoy, MI",45.405,-85.085
+1676,45024,"Station 45024 - Ludington Buoy, MI",43.981,-86.556
+1677,45027,"Station 45027 - McQuade Harbor Nearshore, MN",46.86,-91.93
+1678,45028,Station 45028 - Western Lake Superior,46.814,-91.829
+1679,44073,Station 44073 - CO2 Gulf of Maine Buoy,43.02,-70.54
+1680,44098,"Station 44098 - Jeffrey's Ledge, NH (160)",42.8,-70.171
+1681,CMLN3,"Station CMLN3 - Coastal Marine Lab, New Castle, NH",43.07,-70.7
+1682,41062,Station 41062 - Hatteras Bay (B1),35.778,-75.095
+1683,41063,Station 41063 - Raleigh Bay (B2),34.782,-75.941
+1684,46120,"Station 46120 - Pt Wells, WA (U of Wash)",47.761,-122.397
+1685,46121,"Station 46121 - Carr Inlet, WA (U of Wash)",47.28,-122.73
+1686,46122,"Station 46122 - Dabob Bay, WA (U of Wash)",47.803,-122.803
+1687,46123,"Station 46123 - Twanoh - Hood Canal, WA (U of Wash)",47.375,-123.008
+1688,46124,"Station 46124 - Hoodsport - Hood Canal, WA (U of Wash)",47.422,-123.113
+1689,46125,"Station 46125 - Hansville - Hood Canal, WA",47.907,-122.627
+1690,45013,"Station 45013 - ATW20 - Atwater Park, WI",43.1,-87.85
+1691,45014,"Station 45014 - GB17 - South Green Bay, WI",44.795,-87.759
+1692,45184,Station 45184 - Green Bay East Buoy,44.55,-87.959
+1693,45185,Station 45185 - Green Bay West Buoy,44.577,-87.987
+1694,42067,Station 42067 - USM-R1,30.05,-88.583
+1695,45166,Station 45166 - Lake Champlain - Inland Sea,44.785,-73.258
+1696,44093,"Station 44093 - Offshore Wind Energy Area, VA (210)",36.872,-75.492
+1697,44052,Station 44052 - Goodwin Islands,37.236,-76.399
+1698,44053,Station 44053 - Gloucester Point,37.244,-76.5
+1699,GDIV2,Station GDIV2 - Goodwin Island Met Station,37.222,-76.404
+1700,VMSV2,Station VMSV2 - VIMS Pier,37.246,-76.5
+1701,44090,"Station 44090 - Cape Cod Bay, MA (221)",41.84,-70.329
+1702,32012,Station 32012 - Woods Hole Stratus Wave Station,-19.425,-85.078
+1703,32ST0,Station 32ST0 - Stratus,-22,-85
+1704,41060,Station 41060 - Woods Hole Northwest Tropical Atlantic Wave Station,14.824,-51.017
+1705,41061,Station 41061 - Woods Hole SPURS Wave Station,24.581,-38
+1706,41NT0,Station 41NT0 - NTAS - Northwest Tropical Atlantic,15,-51
+1707,43010,Station 43010 - Woods Hole Spurs Wave Station,10.051,-125.032
+1708,51WH0,Station 51WH0 - WHOTS - Woods Hole Ocean Time-series,23,-158
